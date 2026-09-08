@@ -1,0 +1,28 @@
+# ---------------------------------------------------------------------------
+# Configurable site metadata for bpcn-lab.
+# Everything institution-specific that might change belongs here, NOT in pages.
+# Edit these values instead of editing page content.
+# ---------------------------------------------------------------------------
+
+org:
+  name: "Department of Biological Psychology and Cognitive Neuroscience"
+  short: "BPCN"
+  faculty: "Faculty of Social and Behavioural Sciences"
+  university: "Friedrich Schiller University Jena"
+
+pi:
+  name: "Prof. Dr. Gyula Kovács"
+  role: "Head of Department"
+
+contact:
+  email: "sekretariat.bpcn@uni-jena.de"
+  phone: "+49 3641 9-45936"
+  address: "JenTower, Leutragraben 1, 07743 Jena, Germany"
+  department_url: "https://www.fsv.uni-jena.de/en/22850/biological-psychology-and-cognitive-neurosciences"
+  institute_url: "https://www.fsv.uni-jena.de/en/22594/institute-of-psychology"
+  faculty_url: "https://www.fsv.uni-jena.de/en"
+  university_url: "https://www.uni-jena.de/en"
+  twitter: "@BPCNFSUJENA"
+
+links:
+  archila: "https://archilaresearch.github.io"

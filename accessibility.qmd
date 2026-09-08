@@ -1,0 +1,16 @@
+---
+title: "Accessibility"
+description: "Accessibility statement for the BPCN department website."
+---
+
+We aim to meet **WCAG 2.2 AA**. This site uses semantic headings, keyboard-navigable controls, visible focus states, sufficient colour contrast, descriptive links, image alt text, responsive reflow, and reduced-motion support. Core content works without JavaScript.
+
+## Known limitations
+
+This is an early release; some collection pages are placeholders. If you encounter a barrier, please tell us.
+
+## Feedback
+
+Report an accessibility issue by email ([{{< var contact.email >}}](mailto:{{< var contact.email >}})) or open an [accessibility correction](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose). We aim to respond within a reasonable time and to correct issues promptly.
+
+*Last reviewed: 2026-07-16.*

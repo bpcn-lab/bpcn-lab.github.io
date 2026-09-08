@@ -1,0 +1,332 @@
+---
+title: "People"
+description: "Members of the BPCN department at Friedrich Schiller University Jena."
+---
+
+::: {.person}
+
+<img class="person-photo" src="/assets/people/gyula-kovacs.avif" alt="Portrait of Prof. Dr. Gyula Kovács">
+
+
+::: {.person-body}
+
+### {{< var pi.name >}} {#gyula-kovacs}
+
+::: {.person-role}
+{{< var pi.role >}}, {{< var org.short >}}
+:::
+
+Leads the department's research on the neural background of perceptual and cognitive functions, including object and person recognition, the interaction between perception and memory, and predictive neural processes. The work combines electrophysiology, functional imaging, and transcranial magnetic stimulation.
+
+::: {.person-links}
+[Learn more]({{< var contact.department_url >}})
+:::
+
+:::
+
+:::
+
+
+::: {.person}
+
+<img class="person-photo" src="/assets/people/mario-archila.jpeg" alt="Portrait of Dr. Mario Archila">
+
+
+::: {.person-body}
+
+### Dr. Mario Archila {#mario-archila}
+
+::: {.person-role}
+Researcher and Lecturer in Neuro-AI and Visual Perception
+:::
+
+Works at the interface of cognitive neuroscience and machine learning, applying computational methods to neural and behavioural data. Leads the Translational Neuro-AI research program within BPCN.
+
+::: {.person-links}
+[Learn more]({{< var links.archila >}})
+:::
+
+:::
+
+:::
+
+::: {.person}
+
+<img class="person-photo" src="/assets/people/susann-houben.avif" alt="Portrait of Susann Houben">
+
+
+::: {.person-body}
+
+### Susann Houben {#susann-houben}
+
+::: {.person-role}
+Team Assistant
+:::
+
+Contact for all questions about the department and the team of {{< var pi.name >}}.
+
+::: {.person-links}
+[{{< var contact.email >}}](mailto:{{< var contact.email >}})
+:::
+
+:::
+
+:::
+
+## Doctoral students
+
+::: {.person}
+
+::: {.person-photo .placeholder}
+AS
+:::
+
+::: {.person-body}
+
+### András Sárközy, MSc {#andras-sarkozy}
+
+::: {.person-role}
+Doctoral student, {{< var org.short >}}
+:::
+
+::: {.person-links}
+[andras.zoltan.sarkoezy@uni-jena.de](mailto:andras.zoltan.sarkoezy@uni-jena.de)
+:::
+
+:::
+
+:::
+
+::: {.person}
+
+::: {.person-photo .placeholder}
+YS
+:::
+
+::: {.person-body}
+
+### Yang Shi, MSc {#yang-shi}
+
+::: {.person-role}
+Doctoral student, {{< var org.short >}}
+:::
+
+::: {.person-links}
+[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de)
+:::
+
+:::
+
+:::
+
+::: {.person}
+
+::: {.person-photo .placeholder}
+YD
+:::
+
+::: {.person-body}
+
+### Yeliz Dinc, MSc {#yeliz-dinc}
+
+::: {.person-role}
+Doctoral student, {{< var org.short >}}
+:::
+
+::: {.person-links}
+[yeliz.dinc@uni-jena.de](mailto:yeliz.dinc@uni-jena.de)
+:::
+
+:::
+
+:::
+
+## Undergrad students & interns
+
+::: {.empty-state}
+No public profiles yet.
+:::
+
+## Alumni
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Linda Ficco {#linda-ficco}
+
+::: {.person-role}
+Former doctoral student
+:::
+
+::: {.person-now}
+Currently: Researcher, Swiss Center for Design and Health, Switzerland
+:::
+
+::: {.person-links}
+[Swiss Center for Design and Health](https://www.scdh.ch/en/who-we-are)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Lars Rogenmoser {#lars-rogenmoser}
+
+::: {.person-role}
+Former habilitation candidate
+:::
+
+::: {.person-now}
+Currently: Assistant Professor, James Madison University, United States
+:::
+
+::: {.person-links}
+[Profile](https://www.jmu.edu/chbs/csd/people/rogenmoser-lars.shtml)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Chenglin Li {#chenglin-li}
+
+::: {.person-role}
+Former doctoral student
+:::
+
+::: {.person-now}
+Currently: School of Psychology, Zhejiang Normal University, China
+:::
+
+::: {.person-links}
+[ResearchGate](https://www.researchgate.net/profile/Chenglin-Li-15)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Charlotta Eick {#charlotta-eick}
+
+::: {.person-role}
+Former doctoral student
+:::
+
+::: {.person-links}
+[XING](https://www.xing.com/profile/Charlotta_Eick)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Mareike Grotheer {#mareike-grotheer}
+
+::: {.person-role}
+Former member
+:::
+
+::: {.person-now}
+Currently: Professor, Philipps-Universität Marburg, Germany
+:::
+
+::: {.person-links}
+[Profile](https://www.uni-marburg.de/en/fb04/team-grotheer/team/dr-mareike-grotheer)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Catarina Amado {#catarina-amado}
+
+::: {.person-role}
+Former member
+:::
+
+::: {.person-links}
+[ResearchGate](https://www.researchgate.net/profile/Catarina-Amado-2)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Géza Gergely Ambrus {#geza-gergely-ambrus}
+
+::: {.person-role}
+Former member
+:::
+
+::: {.person-now}
+Currently: Lecturer in Psychology, Bournemouth University, United Kingdom
+:::
+
+::: {.person-links}
+[Profile](https://staffprofiles.bournemouth.ac.uk/display/gambrus)
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Christian Walther {#christian-walther}
+
+::: {.person-role}
+Former member
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+### Dr. Sophie-Marie Rostalski {#sophie-marie-rostalski}
+
+::: {.person-role}
+Former member
+:::
+
+::: {.person-links}
+[ResearchGate](https://www.researchgate.net/profile/Sophie-Marie-Rostalski)
+:::
+
+:::
+
+:::
+
+---
+
+*To add or correct a profile, open a [profile update request](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose).*

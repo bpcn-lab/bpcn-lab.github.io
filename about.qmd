@@ -1,0 +1,26 @@
+---
+title: "About"
+description: "About the BPCN department at Friedrich Schiller University Jena: mission and affiliation."
+---
+
+The **{{< var org.name >}}** ({{< var org.short >}}) is part of the [Institute of Psychology]({{< var contact.institute_url >}}), within the [{{< var org.faculty >}}]({{< var contact.faculty_url >}}) at [{{< var org.university >}}]({{< var contact.university_url >}}).
+
+<div class="brand-banner">
+<img src="/assets/img/jena-towers.jpg" alt="The JenTower and the historic city gate in Jena, close to the department.">
+</div>
+
+::: {.figure-note}
+The department is based in the JenTower, Leutragraben 1, Jena.
+:::
+
+## Mission
+
+We investigate the neural background of perceptual and cognitive functions, combining electrophysiology, imaging, and stimulation methods to understand object and person recognition, perception–memory interactions, and predictive processing.
+
+## Affiliations
+
+- Official department page: [{{< var contact.department_url >}}]({{< var contact.department_url >}})
+
+## More
+
+[Accessibility](accessibility.qmd) · [Privacy](privacy.qmd) · [Legal notice](legal.qmd) · [Contact](contact.qmd)

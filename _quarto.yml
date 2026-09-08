@@ -1,0 +1,66 @@
+lang: en
+
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/
+  render:
+    - "*.qmd"
+
+# Site metadata (names, contacts, links) lives in _variables.yml.
+# Use {{< var key >}} in pages instead of hardcoding values.
+
+website:
+  title: "BPCN: Biological Psychology & Cognitive Neuroscience"
+  description: "Department of Biological Psychology and Cognitive Neuroscience, Friedrich Schiller University Jena."
+  site-url: "https://bpcn-lab.github.io"
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    logo: assets/logo.svg
+    title: "BPCN Jena"
+    collapse-below: lg
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Join"
+        href: join.qmd
+      - text: "Participants"
+        href: participants.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    border: true
+    left: |
+      **Department of Biological Psychology and Cognitive Neuroscience (BPCN)**
+      Faculty of Social and Behavioural Sciences · Friedrich Schiller University Jena
+    center:
+      - text: "Accessibility"
+        href: accessibility.qmd
+      - text: "Privacy"
+        href: privacy.qmd
+      - text: "Legal notice"
+        href: legal.qmd
+    right: |
+      [Department website](https://www.fsv.uni-jena.de/en/22850/biological-psychology-and-cognitive-neurosciences) ·
+      [GitHub](https://github.com/bpcn-lab)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/theme.scss
+    toc: false
+    grid:
+      body-width: 900px
+    link-external-newwindow: true
+    link-external-icon: true
+    smooth-scroll: true

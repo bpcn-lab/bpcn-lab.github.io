@@ -1,0 +1,53 @@
+---
+pagetitle: "Take part in our research | BPCN: Biological Psychology & Cognitive Neuroscience"
+description: "Become a research participant at the BPCN department, Friedrich Schiller University Jena. Non-invasive, reimbursed studies of perception, memory, and cognition."
+toc: false
+---
+
+::: {.hero}
+# Take part in our research
+
+::: {.lede}
+Volunteers make our work possible. Join a study on how the brain perceives, remembers, and recognises the world.
+:::
+:::
+
+The department regularly looks for volunteers for studies of perception and cognition. No prior experience is needed. Everything is explained to you beforehand, participation is voluntary, and you can stop at any time.
+
+## What taking part involves
+
+Our studies are non-invasive and take place at the department in Jena. Depending on the study, you might:
+
+- view images or listen to sounds and respond on a keyboard (behavioural and eye-tracking studies);
+- wear a soft cap of sensors that records electrical brain activity from the scalp (EEG);
+- lie still in a scanner that takes images of the brain (fMRI, at the Am Steiger imaging centre);
+- receive brief, painless magnetic pulses over the scalp that briefly influence a small brain area (TMS).
+
+Each method is well established and safe, and the researcher is with you throughout.
+
+## Who can take part
+
+Most studies are open to healthy adults with normal or corrected-to-normal vision. Individual studies add their own criteria; for example, some ask for right-handed volunteers, and MRI studies require that you have no metal implants and are not pregnant. Specific requirements are always listed before you sign up.
+
+## Time and reimbursement
+
+A session usually lasts one to three hours. We reimburse your time, typically at an hourly rate, and some studies also offer a keepsake such as a 3D model of your own face or brain. Students can often receive course credit instead of payment.
+
+## Where we are
+
+- **EEG, eye-tracking, and behavioural studies:** JenTower, Leutragraben 1, 18th floor, Jena.
+- **MRI studies:** Werner Kaiser MRI research centre, Am Steiger, Jena.
+
+## Your data and consent
+
+Taking part is voluntary and based on informed consent. Studies follow the university's ethics and data-protection rules; your data are stored pseudonymously and used only for research. See our [privacy notice](privacy.qmd) for details.
+
+## Sign up
+
+::: {.callout-cta}
+Ready to take part, or want to hear about upcoming studies?
+
+Email us with your name and your general availability, and we will match you to a suitable study. Individual studies may also list their own contact person.
+
+[Email the participant team](mailto:{{< var contact.email >}}){.btn-fsu}
+:::

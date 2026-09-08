@@ -1,0 +1,24 @@
+---
+title: "Privacy notice"
+description: "Privacy notice for the BPCN department website."
+---
+
+## What we collect
+
+This site is a static website. It uses **no analytics, no advertising trackers, and no visitor profiling**. It does not collect participant, health, or personal data through the site.
+
+## Hosting
+
+Pages are served as static files (GitHub Pages). The hosting provider may process technical request data (such as IP addresses) for delivery and security; this is outside the site's control and covered by the provider's own policy.
+
+## Personal data on profile pages
+
+Individual profiles are published only with the person's recorded consent. Anyone listed may request correction or removal.
+
+## Your rights & contact
+
+To request correction or removal of information about you, contact the data controller:
+
+{{< var org.name >}}: [{{< var contact.email >}}](mailto:{{< var contact.email >}}), {{< var contact.address >}}.
+
+*Last reviewed: 2026-07-16.*

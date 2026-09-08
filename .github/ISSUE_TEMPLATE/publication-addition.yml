@@ -1,0 +1,21 @@
+name: Publication addition
+description: Suggest a publication to add to the list.
+title: "[Publication] "
+labels: ["content", "publications"]
+body:
+  - type: input
+    id: citation
+    attributes:
+      label: Full citation
+    validations:
+      required: true
+  - type: input
+    id: doi
+    attributes:
+      label: DOI or canonical URL
+    validations:
+      required: true
+  - type: input
+    id: links
+    attributes:
+      label: Open-access / preprint / code / data links (optional)

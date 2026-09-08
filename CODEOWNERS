@@ -1,0 +1,17 @@
+# CODEOWNERS — bpcn-lab.github.io
+# Replace the placeholders with real GitHub usernames/teams before enabling
+# branch protection. Institutional claims and config require owner review.
+
+# Default: any change needs a maintainer review.
+*                       @bpcn-lab/maintainers
+
+# Institutional identity, affiliation wording, and legal text — owner review.
+/_variables.yml         @bpcn-lab/owners
+/legal.qmd              @bpcn-lab/owners
+/about.qmd              @bpcn-lab/owners
+/privacy.qmd            @bpcn-lab/owners
+
+# Deployment and governance — owner review.
+/.github/               @bpcn-lab/owners
+/GOVERNANCE.md          @bpcn-lab/owners
+/SECURITY.md            @bpcn-lab/owners

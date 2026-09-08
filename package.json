@@ -1,0 +1,14 @@
+{
+  "name": "bpcn-lab-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Website of the BPCN department, FSU Jena. Built with Quarto.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "check-links": "node scripts/check-internal-links.mjs _site",
+    "check": "npm run validate && npm run check-links",
+    "build": "quarto render",
+    "preview": "quarto preview"
+  }
+}

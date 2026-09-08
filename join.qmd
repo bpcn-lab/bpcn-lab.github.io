@@ -1,0 +1,28 @@
+---
+title: "Join"
+description: "Opportunities to join the BPCN department: theses, internships, and positions."
+---
+
+We welcome prospective students and collaborators. Funded and unfunded opportunities are distinguished clearly; no funding is implied where none exists.
+
+## Open positions
+
+::: {.empty-state}
+No funded positions are currently advertised.
+:::
+
+## Student projects & theses
+
+We regularly host BSc and MSc thesis projects in cognitive neuroscience. Psychology students, as well as students from medicine and the life sciences, are welcome.
+
+::: {.empty-state}
+Specific thesis topics will be listed here. In the meantime, express interest via the contact below.
+:::
+
+## Related opportunities
+
+Supervised student and thesis opportunities are also offered by [Dr. Mario Archila]({{< var links.archila >}}/join.html).
+
+## Express interest
+
+Email [{{< var contact.email >}}](mailto:{{< var contact.email >}}) with your background and interests.

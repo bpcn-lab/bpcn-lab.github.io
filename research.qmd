@@ -1,0 +1,76 @@
+---
+title: "Research"
+description: "What the BPCN department studies and how: research topics and methods."
+---
+
+<div class="brand-banner">
+<img src="/assets/img/bpcn-logo.png" alt="BPCN brand illustration: a brain overlaid with an eye, representing the department's focus on visual perception and cognition.">
+</div>
+
+Our research asks how the brain turns what the eyes receive into recognition, prediction, and awareness. The page has two parts: the **topics** are the questions we study, and the **methods** are how we study them.
+
+## Research topics
+
+### Recognizing familiar faces and people
+
+We recognize the people we know in an instant, yet this is one of the hardest problems the visual brain solves: a single glance must be turned into "this is a specific person I know." Much of the department's recent work asks how a face becomes familiar, how the brain represents a known identity differently from a stranger's, and how quickly that representation forms. Recent studies have measured the *degree* of familiarity in the brain's response, tracked the neural signature that appears as a new face is learned, and shown that information beyond the image itself, such as a person's biography, shapes how their identity is represented.
+
+### Predicting what we see: expectation and repetition
+
+The brain is not a passive camera. It constantly predicts what is likely to appear next, and its response to an expected or repeated stimulus is usually smaller, an effect known as **repetition suppression**. A central question here is whether this reduction reflects genuine prediction or a simpler kind of adaptation. Recent studies separate the two by manipulating how probable a stimulus is, by changing its context, and by training participants, and a meta-analysis has weighed the evidence for a brain-wide predictive network.
+
+### Recognizing objects, scenes, and written words
+
+Faces are not the only things we recognize. The same questions about familiarity and prediction extend to everyday objects, real-world places, and written words. Recent work has asked whether a personally familiar scene is encoded like a familiar face, whether briefly stimulating the object-selective cortex changes how we detect and categorize objects, and how reading experience and language knowledge shape the region of the brain specialized for written words.
+
+### Consciousness and visual awareness
+
+Why does some visual information reach awareness while other information does not? A more recent strand of the department's work engages theories of consciousness directly, including large adversarial collaborations in which competing theories are tested against shared predictions. To probe the border between seeing and being aware of seeing, we use phenomena such as **motion-induced blindness**, in which a clearly visible object briefly disappears from awareness even though it stays on the screen.
+
+## Methods
+
+The department combines electrophysiology, imaging, and brain stimulation with behavioural testing and computational analysis. It operates three dedicated laboratories, a **TMS-Lab**, an **Eye-Tracking-Lab**, and an **Auditory-Lab**, alongside access to functional imaging.
+
+### Electroencephalography (EEG) and event-related potentials
+
+EEG records the brain's electrical activity from the scalp with millisecond precision. Because recognition and prediction unfold in fractions of a second, EEG lets us follow the timecourse of perception and ask *when*, not only where, the brain distinguishes a familiar face or registers an expected stimulus.
+
+### Functional MRI (fMRI)
+
+Functional MRI maps *where* responses occur by tracking small changes in blood oxygenation. The department uses it especially to localize repetition suppression and adaptation, revealing which regions reduce their response when a stimulus is repeated, expected, or held in memory.
+
+### Transcranial magnetic stimulation (TMS)
+
+TMS uses brief magnetic pulses to change activity in a targeted region non-invasively and reversibly, including patterned protocols such as continuous theta-burst stimulation (cTBS). In the department's **TMS-Lab**, perturbing an area and measuring the effect on behaviour or EEG lets us move from correlation to causal tests of which regions are actually necessary for recognition.
+
+### Eye-tracking
+
+Eye-tracking records where the eyes look and for how long, millisecond by millisecond. In the **Eye-Tracking-Lab**, this reveals what captures attention and how people sample a face or a scene, and it can be combined with EEG to link the moment of looking to the brain's response.
+
+### Auditory methods
+
+Not all recognition is visual. The **Auditory-Lab** studies hearing, including how we recognize voices and perceive speech, using precisely controlled sounds together with electrophysiology. This complements the visual work and asks whether the brain treats a familiar voice as it treats a familiar face.
+
+### Multivariate pattern analysis and neural decoding
+
+Rather than asking whether a region is simply more active, decoding asks what information its activity pattern carries. Applied to time-resolved EEG, it reveals how the representation of a face or an identity emerges, sharpens over time, and can even generalize across separate experiments.
+
+### Behavioural experiments and psychophysics
+
+Carefully controlled tasks measure what people actually perceive and how quickly they respond. Behavioural methods anchor the neural findings and, in illusions such as motion-induced blindness, expose the gap between what is on the screen and what reaches awareness.
+
+### Meta-analysis and systematic review
+
+The department also synthesizes findings across many studies. Quantitative meta-analysis and systematic review test whether effects such as expectation suppression, or the existence of a predictive network, hold up reliably across the wider literature.
+
+### Generative AI
+
+Generative models, including deep neural networks that learn to produce faces, objects, and scenes, give precise control over the images we study and a computational account of how the brain might represent them. Comparing human brain responses with the internal representations of these models tests which computational principles the visual system actually uses. This strand is led within the department by Dr. Mario Archila.
+
+[Learn more]({{< var links.archila >}}/research.html#generative-ai)
+
+### Computational modeling
+
+Computational models turn a theory of perception into equations that make testable predictions, from predictive-coding accounts of expectation to models of how identity is encoded over time. Fitting these models to brain and behavioural data shows whether a proposed mechanism can actually produce what we observe. This strand is led within the department by Dr. Mario Archila.
+
+[Learn more]({{< var links.archila >}}/research.html#computational-modeling)

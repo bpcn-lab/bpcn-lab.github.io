@@ -1,0 +1,17 @@
+# Quarto build output (never commit)
+/_site/
+/.quarto/
+*.html
+!.github/**/*.html
+
+# Node
+/node_modules/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+**/*.quarto_ipynb

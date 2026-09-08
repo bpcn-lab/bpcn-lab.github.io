@@ -1,0 +1,252 @@
+/*-- scss:defaults --*/
+// bpcn-lab design tokens. Built on the Friedrich Schiller University Jena
+// corporate palette: dark blue is primary, gold and light blue are accents,
+// and #378DBC is the Faculty of Social & Behavioural Sciences colour.
+// All text tones are checked for WCAG AA against the surface they sit on.
+
+$fsu-blue:     #002F5D;   // primary (university dark blue)
+$fsu-gold:     #AE9A63;   // accent, emphasis only (fails AA as small text on white)
+$fsu-ltblue:   #648BC7;   // accent, emphasis only
+$fsu-faculty:  #378DBC;   // faculty colour, large/decorative use
+
+$brand-primary: $fsu-blue;
+$brand-ink:     #16202b;  // primary text        (16.5:1 on white)
+$brand-muted:   #566270;  // secondary text      (6.2:1 on white)
+$brand-faint:   #8a94a0;  // decoration/borders only, never text
+$brand-link:    #14548f;  // link blue           (7.8:1 on white, 6.2:1 on surface)
+$brand-surface: #eef2f7;  // light card tint
+$hairline:      #e4e9f0;
+
+$primary:        $brand-primary;
+$body-color:     $brand-ink;
+$link-color:     $brand-link;
+$headings-color: $fsu-blue;
+$headings-font-weight: 700;
+
+// Prefer the platform system stack: high quality, no webfont/CSP risk.
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+
+// Navbar: FSU dark blue with white text.
+$navbar-bg: $fsu-blue;
+$navbar-fg: #ffffff;
+
+/*-- scss:rules --*/
+:root {
+  --bpcn-blue: #{$fsu-blue};
+  --bpcn-gold: #{$fsu-gold};
+  --bpcn-faculty: #{$fsu-faculty};
+  --bpcn-surface: #{$brand-surface};
+  --bpcn-muted: #{$brand-muted};
+  --bpcn-hairline: #{$hairline};
+}
+
+/* ---- Typography ------------------------------------------------------- */
+body {
+  color: $brand-ink;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-variant-numeric: slashed-zero;   /* clearer digits in citations */
+}
+
+h1, h2, h3, h4, h5 { text-wrap: balance; line-height: 1.18; }
+h1, h2 { letter-spacing: -0.012em; }
+p, li { text-wrap: pretty; }
+
+h1.title { font-size: clamp(2rem, 4.5vw, 2.9rem); font-weight: 700; margin-bottom: 0.4rem; }
+#quarto-document-content h2 { font-size: 1.55rem; font-weight: 700; margin-top: 2.3rem; }
+#quarto-document-content h3 { font-size: 1.18rem; font-weight: 600; margin-top: 1.4rem; }
+
+.description { color: $brand-muted; font-size: 1.15rem; }
+
+/* Links: FSU link blue, generous underline offset, thickens on hover. */
+a { color: $brand-link; text-underline-offset: 0.15em; }
+#quarto-document-content a:hover { text-decoration-thickness: 2px; }
+
+/* Visible focus for keyboard users. */
+a:focus-visible,
+.nav-link:focus-visible,
+summary:focus-visible,
+.btn-fsu:focus-visible {
+  outline: 2px solid $fsu-faculty;
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* ---- Navbar ----------------------------------------------------------- */
+.navbar { font-size: 1rem; }
+.navbar-brand { font-weight: 700; letter-spacing: -0.01em; }
+.navbar .navbar-nav .nav-link {
+  font-weight: 700;               /* bold top-menu items */
+  letter-spacing: 0.005em;
+  color: rgba(255, 255, 255, 0.92);
+}
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link.active {
+  color: $fsu-gold;               /* gold on dark blue = 4.86:1, AA */
+}
+.navbar .navbar-brand img { height: 30px; width: auto; }
+
+/* ---- Hero: Jena skyline with a dark-blue wash for white text ---------- */
+.hero {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  color: #fff;
+  padding: clamp(2.5rem, 6vw, 4.75rem) clamp(1.5rem, 4vw, 3rem);
+  margin: 0.25rem 0 2.5rem;
+  background-image:
+    linear-gradient(180deg, rgba(0, 47, 93, 0.60), rgba(0, 47, 93, 0.84)),
+    url("/assets/img/jena-hero.jpg");
+  background-size: cover;
+  background-position: center 62%;
+}
+.hero h1 { color: #fff; font-size: clamp(2rem, 5vw, 3rem); margin: 0 0 0.6rem; }
+.hero .lede {
+  color: rgba(255, 255, 255, 0.94);
+  font-size: clamp(1.15rem, 2.4vw, 1.4rem);
+  line-height: 1.4;
+  max-width: 48ch;
+  margin: 0;
+}
+
+/* ---- Full-width brand / photo banner (Research page, etc.) ------------ */
+.brand-banner {
+  border-radius: 14px;
+  overflow: hidden;
+  margin: 0.25rem 0 2rem;
+  background: $fsu-blue;
+}
+.brand-banner img {
+  width: 100%;
+  height: clamp(180px, 30vw, 280px);
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
+.figure-note { color: $brand-muted; font-size: 0.85rem; margin-top: 0.4rem; }
+
+/* ---- Cards / callouts / empty states: flat, no accent side bar -------- */
+.card-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.card, .callout-plain, .empty-state {
+  background: $brand-surface;
+  border: none;
+  border-radius: 12px;
+}
+.card { padding: 1.15rem 1.3rem; }
+.card h3 { margin-top: 0; font-size: 1.05rem; color: $fsu-blue; }
+.card p { margin-bottom: 0; color: $brand-ink; }
+.callout-plain { padding: 1rem 1.25rem; }
+.empty-state { padding: 1.5rem; color: $brand-muted; text-align: center; }
+
+/* Call-to-action band (Participants, recruitment). */
+.callout-cta {
+  background: $fsu-blue;
+  color: #fff;
+  border-radius: 14px;
+  padding: 1.6rem 1.8rem;
+  margin: 1.5rem 0;
+}
+.callout-cta h2, .callout-cta h3 { color: #fff; margin-top: 0; }
+.callout-cta p { color: rgba(255, 255, 255, 0.94); }
+.callout-cta a { color: #fff; }
+.callout-cta a.btn-fsu,
+.callout-cta a.btn-fsu:hover { color: $fsu-blue; }   /* dark text on the light button */
+.btn-fsu {
+  display: inline-block;
+  background: #fff;
+  color: $fsu-blue;             /* 13.4:1 */
+  font-weight: 700;
+  text-decoration: none;
+  padding: 0.6rem 1.15rem;
+  border-radius: 8px;
+  margin-top: 0.35rem;
+}
+.btn-fsu:hover { background: $fsu-gold; }
+
+/* ---- Collapsible publication years (native <details>, no JS) ---------- */
+details.pub-year { border-bottom: 1px solid $hairline; margin-bottom: 0.75rem; }
+details.pub-year > summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+details.pub-year > summary::-webkit-details-marker { display: none; }
+details.pub-year > summary::before {
+  content: "";
+  flex: 0 0 auto;
+  width: 8px;
+  height: 8px;
+  border: solid $fsu-gold;                 /* gold caret accent */
+  border-width: 0 2px 2px 0;
+  transform: rotate(-45deg);
+  transition: transform 0.15s ease;
+}
+details.pub-year[open] > summary::before { transform: rotate(45deg); }
+details.pub-year > summary h2 { margin: 0; padding: 0.35rem 0; font-size: 1.5rem; }
+details.pub-year > summary:hover h2 { color: $brand-link; }
+
+/* ---- Funding logos ---------------------------------------------------- */
+.funding-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem 2.25rem;
+  align-items: center;
+  margin: 1rem 0;
+}
+.funding-grid a { line-height: 0; }
+.funding-logo { height: 64px; width: auto; max-width: 100%; display: block; }
+
+/* ---- People ----------------------------------------------------------- */
+.person {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid $hairline;
+}
+.person:last-of-type { border-bottom: none; }
+.person-photo {
+  flex: 0 0 120px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  background: $brand-surface;
+}
+.person-photo.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: $brand-faint;
+  letter-spacing: 0.02em;
+  user-select: none;
+}
+.person-body { flex: 1 1 auto; min-width: 0; }
+.person-body h3 { margin: 0 0 0.15rem; font-size: 1.2rem; color: $brand-ink; }
+.person-body p { margin: 0.4rem 0; }
+.person-role { color: $brand-muted; font-size: 0.95rem; margin-bottom: 0.5rem; }
+.person-links { font-size: 0.9rem; margin-top: 0.6rem; }
+.person-links a { margin-right: 0.35rem; }
+.person.alum { padding: 0.85rem 0; gap: 0; }
+.person.alum .person-body h3 { font-size: 1.02rem; }
+.person-now { color: $brand-muted; font-size: 0.9rem; }
+
+@media (max-width: 600px) {
+  .person { flex-direction: column; gap: 0.9rem; }
+  .person-photo { width: 96px; height: 96px; flex-basis: 96px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+  details.pub-year > summary::before { transition: none; }
+}

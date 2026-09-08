@@ -1,0 +1,33 @@
+name: Profile update request
+description: Add, change, or remove a person's profile on the site.
+title: "[Profile] "
+labels: ["content", "people"]
+body:
+  - type: input
+    id: person
+    attributes:
+      label: Person's name
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Requested action
+      options: [Add profile, Update profile, Remove profile]
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Role, category, short bio, links (ORCID/GitHub), and any corrections.
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent (required to publish personal data)
+      options:
+        - label: The person consents to appearing on the public website.
+          required: true
+        - label: Any image included has a documented source, rights basis, and alt text.

@@ -1,0 +1,308 @@
+---
+title: "Publications"
+description: "Peer-reviewed publications from the BPCN department, listed by year."
+---
+
+<details class="pub-year" open>
+<summary><h2>2026</h2></summary>
+
+- Corcoran AW, Haun AM, Dorman R, Tononi G, Friston KJ, Pennartz CMA, et al. **Integrated information and predictive processing theories of consciousness: an adversarial collaborative review.** *Neuroscience & Biobehavioral Reviews*, 106742.
+- Shi Y, Gommlich S, Kovács G. **It matters who you are: biography modulates the neural dynamics of facial identity representation.** *Cerebral Cortex* 36(2), bhag010.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2025</h2></summary>
+
+- Robinson JE, Corcoran AW, Whyte CJ, Sárközy A, Seth AK, Kovács G, Friston KJ, et al. **The role of active inference in conscious awareness.** *PLOS ONE* 20(12), e0328836.
+- Kovács G, Göschel L, Pawlik SM, Tramacere A. **The neural dynamics of current and past self-face perception: challenging the privileged access hypothesis.** *Cortex*.
+- Li C, Eick CM, Kovács G. **State-dependent TMS of the right lateral occipital complex does not disrupt object detection and categorization.** *Quarterly Journal of Experimental Psychology*, 17470218251395760.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2024</h2></summary>
+
+- Wiese H, Schweinberger SR, Kovács G. **The neural dynamics of familiar face recognition.** *Neuroscience & Biobehavioral Reviews* 167, 105943.
+- Sárközy A, Robinson JE, Kovács G. **Motion-induced blindness shows spatial anisotropies in conscious perception.** *Scientific Reports* 14(1), 27718.
+- Kóbor A, Janacsek K, Hermann P, Zavecz Z, Varga V, Csépe V, et al. **Finding pattern in the noise: persistent implicit statistical knowledge impacts the processing of unpredictable stimuli.** *Journal of Cognitive Neuroscience* 36(7), 1239–1264.
+- Ficco L, Li C, Kaufmann JM, Schweinberger SR, Kovács G. **Investigating the neural effects of typicality and predictability for face and object stimuli.** *PLOS ONE* 19(5), e0293781.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2023</h2></summary>
+
+- Klink H, Kaiser D, Stecher R, Ambrus GG, Kovács G. **Your place or mine? The neural dynamics of personally familiar scene recognition suggests category independent familiarity encoding.** *Cerebral Cortex* 33(24), 11634–11645.
+- den Ouden C, Zhou A, Mepani V, Kovács G, Vogels R, Feuerriegel D. **Stimulus expectations do not modulate visual event-related potentials in probabilistic cueing designs.** *NeuroImage* 280, 120347.
+- Li C, Ficco L, Trapp S, Rostalski SM, Korn L, Kovács G. **The effect of context congruency on fMRI repetition suppression for objects.** *Neuropsychologia* 188, 108603.
+- Kovács G, Li C, Ambrus GG, Burton AM. **The neural dynamics of familiarity-dependent face identity representation.** *Psychophysiology* 60(9), e14304.
+- Dalski A, Kovács G, Ambrus GG. **No semantic information is necessary to evoke general neural signatures of face familiarity: evidence from cross-experiment classification.** *Brain Structure and Function* 228(2), 449–462.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2022</h2></summary>
+
+- Epperlein T, Kovács G, Oña LS, Amici F, Bräuer J. **Context and prediction matter for the interpretation of social interactions across species.** *PLOS ONE* 17(12), e0277783.
+- Dalski A, Kovács G, Wiese H, Ambrus GG. **Characterizing the shared signals of face familiarity: long-term acquaintance, voluntary control, and concealed knowledge.** *Brain Research* 1796, 148094.
+- Li C, Burton AM, Ambrus GG, Kovács G. **A neural measure of the degree of face familiarity.** *Cortex* 155, 1–12.
+- Dalski A, Kovács G, Ambrus GG. **Evidence for a general neural signature of face familiarity.** *Cerebral Cortex* 32(12), 2590–2601.
+- Li C, Kovács G. **The effect of short-term training on repetition probability effects for non-face objects.** *Biological Psychology* 175, 108452.
+- Li C, Kovács G. **Repetition probability effects for Chinese characters and German words in the visual word form area.** *Brain Research* 1780, 147812.
+- Rostalski SM, Robinson JE, Ambrus GG, Johnston P, Kovács G. **Person identity-specific adaptation effects in the ventral occipito-temporal cortex.** *European Journal of Neuroscience* 55(5), 1232–1243.
+- Schroeger A, Kaufmann JM, Zäske R, Kovács G, Klos T, et al. **Atypical prosopagnosia following right hemispheric stroke: a 23-year follow-up study with MT.** *Cognitive Neuropsychology* 39(3–4), 196–207.
+- Menzel C, Kovács G, Hayn-Leichsenring GU, Redies C. **Is artistic composition in abstract art detected automatically?** In: *Brain, Beauty and Art: Essays Bringing Neuroaesthetics into Focus*, 102–107.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2021</h2></summary>
+
+- Ficco L, Mancuso L, Manuello J, Teneggi A, Liloia D, Duca S, Costa T, et al. **Disentangling predictive processing in the brain: a meta-analytic study in favour of a predictive network.** *Scientific Reports* 11(1), 16258.
+- Feuerriegel D, Vogels R, Kovács G. **Evaluating the evidence for expectation suppression in the visual system.** *Neuroscience & Biobehavioral Reviews* 126, 368–381.
+- Ambrus GG, Eick CM, Kaiser D, Kovács G. **Getting to know you: emerging neural representations during face familiarization.** *Journal of Neuroscience* 41(26), 5687–5698.
+- Eick CM, Ambrus GG, Kovács G. **Inhibition of the occipital face area modulates the electrophysiological signals of face familiarity: a combined cTBS-EEG study.** *Cortex* 141, 156–167.
+- Li C, Kovács G, Trapp S. **Visual short-term memory load modulates repetition related fMRI signal adaptation.** *Biological Psychology* 166, 108199.
+- Li C, Kovács G. **Repetition probability effects for words depend on language knowledge.** Preprint. [doi:10.1101/2021.11.01.466762](https://doi.org/10.1101/2021.11.01.466762)
+- Stecher R, Muukkonen I, Salmela V, Rostalski SM, Ambrus GG, Kovács G. **Prolonged and distributed processing of facial identity in the human brain.** Preprint. [doi:10.1101/2021.06.23.449599](https://doi.org/10.1101/2021.06.23.449599)
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2020</h2></summary>
+
+- Kovács G. **Getting to know someone: familiarity, person recognition, and identification in the human brain.** *Journal of Cognitive Neuroscience* 32(12), 2205–2225.
+- Ambrus GG, Vékony T, Janacsek K, Trimborn ABC, Kovács G, Nemeth D. **When less is more: enhanced statistical learning of non-adjacent dependencies after disruption of bilateral DLPFC.** *Journal of Memory and Language* 114, 104144.
+- Donnier S, Kovács G, Oña LS, Bräuer J, Amici F. **Experience has a limited effect on humans' ability to predict the outcome of social interactions in children, dogs and macaques.** *Scientific Reports* 10(1), 21240.
+- Rostalski SM, Amado C, Kovács G, Feuerriegel D. **Measures of repetition suppression in the fusiform face area are inflated by co-occurring effects of statistically learned visual associations.** *Cortex* 131, 123–136.
+- Eick CM, Kovács G, Rostalski SM, Röhrig L, Ambrus GG. **The occipital face area is causally involved in identity-related visual-semantic associations.** *Brain Structure and Function* 225(5), 1483–1493.
+- Honbolygó F, Kóbor A, Hermann P, Kettinger ÁO, Vidnyánszky Z, et al. **Expectations about word stress modulate neural activity in speech-sensitive cortical areas.** *Neuropsychologia* 143, 107467.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2019</h2></summary>
+
+- Ambrus GG, Kaiser D, Cichy RM, Kovács G. **The neural dynamics of familiar face recognition.** *Cerebral Cortex* 29(11), 4775–4784.
+- Amado C, Rostalski SM, Grotheer M, Wanke N, Kovács G. **Similar expectation effects for immediate and delayed stimulus repetitions.** *Frontiers in Neuroscience* 13, 1379.
+- Kovács G, Grotheer M, Münke L, Kéri S, Nenadić I. **Significant repetition probability effects in schizophrenia.** *Psychiatry Research: Neuroimaging* 290, 22–29.
+- Rostalski SM, Amado C, Kovács G. **Repetition suppression for noisy and intact faces in the occipito-temporal cortex.** *Frontiers in Psychology* 10, 1348.
+- Ambrus GG, Amado C, Krohn L, Kovács G. **TMS of the occipital face area modulates cross-domain identity priming.** *Brain Structure and Function* 224(1), 149–157.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2018</h2></summary>
+
+- Trapp S, Schweinberger SR, Hayward WG, Kovács G. **Integrating predictive frameworks and cognitive models of face perception.** *Psychonomic Bulletin & Review* 25(6), 2016–2023.
+- Amado C, Kovács P, Mayer R, Ambrus GG, Trapp S, Kovács G. **Neuroimaging results suggest the role of prediction in cross-domain priming.** *Scientific Reports* 8(1), 10356.
+- Amado C, Stoyanova P, Kovács G. **Visual mismatch response and fMRI signal adaptation correlate in the occipital-temporal cortex.** *Behavioural Brain Research* 347, 77–87.
+- Menzel C, Kovács G, Amado C, Hayn-Leichsenring GU, Redies C. **Visual mismatch negativity indicates automatic, task-independent detection of artistic image composition in abstract artworks.** *Biological Psychology* 136, 76–86.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2017</h2></summary>
+
+- Ambrus GG, Dotzer M, Schweinberger SR, Kovács G. **The occipital face area is causally involved in the formation of identity-specific face representations.** *Brain Structure and Function* 222(9), 4271–4282.
+- Ambrus GG, Windel F, Burton AM, Kovács G. **Causal evidence of the involvement of the right occipital face area in face-identity acquisition.** *NeuroImage* 148, 212–218.
+- Kovács P, Knakker B, Hermann P, Kovács G, Vidnyánszky Z. **Face inversion reveals holistic processing of peripheral faces.** *Cortex* 97, 81–95.
+- Hermann P, Grotheer M, Kovács G, Vidnyánszky Z. **The relationship between repetition suppression and face perception.** *Brain Imaging and Behavior* 11(4), 1018–1028.
+- Menzel C, Hayn-Leichsenring GU, Redies C, Németh K, Kovács G. **When noise is beneficial for sensory encoding: noise adaptation can improve face processing.** *Brain and Cognition* 117, 73–83.
+- Vakli P, Németh K, Zimmer M, Kovács G. **The electrophysiological correlates of integrated face and body-part perception.** *Quarterly Journal of Experimental Psychology* 70(1), 142–153.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2016</h2></summary>
+
+- Grotheer M, Kovács G. **Can predictive coding explain repetition suppression?** *Cortex* 80, 113–124.
+- Grotheer M, Herrmann KH, Kovács G. **Neuroimaging evidence of a bilateral representation for visually presented numbers.** *Journal of Neuroscience* 36(1), 88–97.
+- Grotheer M, Ambrus GG, Kovács G. **Causal evidence of the involvement of the number form area in the visual detection of numbers and letters.** *NeuroImage* 132, 314–319.
+- Amado C, Kovács G. **Does surprise enhancement or repetition suppression explain visual mismatch negativity?** *European Journal of Neuroscience* 43(12), 1590–1600.
+- Amado C, Hermann P, Kovács P, Grotheer M, Vidnyánszky Z, Kovács G. **The contribution of surprise to the prediction based modulation of fMRI responses.** *Neuropsychologia* 84, 105–112.
+- Kovács G, Schweinberger SR. **Repetition suppression: an integrative view.** *Cortex* 80, 1–4.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2015</h2></summary>
+
+- Grotheer M, Kovács G. **The relationship between stimulus repetitions and fulfilled expectations.** *Neuropsychologia* 67, 175–182.
+- Zimmer M, Zbanţ A, Németh K, Kovács G. **Adaptation duration dissociates category-, image-, and person-specific processes on face-evoked event-related potentials.** *Frontiers in Psychology* 6, 1945.
+- Németh K, Zimmer M, Nagy K, Bankó ÉM, Vidnyánszky Z, Vakli P, et al. **Altered BOLD response within the core face-processing network in congenital prosopagnosia.** *Ideggyógyászati Szemle* 68(5–6), 199–211.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2014</h2></summary>
+
+- Grotheer M, Kovács G. **Repetition probability effects depend on prior experiences.** *Journal of Neuroscience* 34(19), 6640–6646.
+- Grotheer M, Hermann P, Vidnyánszky Z, Kovács G. **Repetition probability effects for inverted faces.** *NeuroImage* 102, 416–423.
+- Kovács G, Vogels R. **When does repetition suppression depend on repetition probability?** *Frontiers in Human Neuroscience* 8, 685.
+- Keresztes A, Kaiser D, Kovács G, Racsmány M. **Testing promotes long-term learning via stabilizing activation patterns in a large network of brain areas.** *Cerebral Cortex* 24(11), 3025–3035.
+- Zäske R, Volberg G, Kovács G, Schweinberger SR. **Electrophysiological correlates of voice learning and recognition.** *Journal of Neuroscience* 34(33), 10821–10831.
+- Németh K, Zimmer M, Schweinberger SR, Vakli P, Kovács G. **The background of reduced face specificity of N170 in congenital prosopagnosia.** *PLOS ONE* 9(7), e101393.
+- Németh K, Kovács P, Vakli P, Kovács G, Zimmer M. **Phase noise reveals early category-specific modulation of the event-related potentials.** *Frontiers in Psychology* 5, 367.
+- Vakli P, Németh K, Zimmer M, Schweinberger SR, Kovács G. **Altering second-order configurations reduces the adaptation effects on early face-sensitive event-related potential components.** *Frontiers in Human Neuroscience* 8, 426.
+- Vakli P, Németh K, Zimmer M, Kovács G. **The face evoked steady-state visual potentials are sensitive to the orientation, viewpoint, expression and configuration of the stimuli.** *International Journal of Psychophysiology* 94(3), 336–350.
+- Walther C, Schweinberger SR, Kovács G. **Decision-dependent aftereffects for faces.** *Vision Research* 100, 47–55.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2013</h2></summary>
+
+- Kovács G, Kaiser D, Kaliukhovich DA, Vidnyánszky Z, Vogels R. **Repetition probability does not affect fMRI repetition suppression for objects.** *Journal of Neuroscience* 33(23), 9805–9812.
+- Kaiser D, Walther C, Schweinberger SR, Kovács G. **Dissociating the neural bases of repetition-priming and adaptation in the human brain for faces.** *Journal of Neurophysiology* 110(12), 2727–2738.
+- Walther C, Schweinberger SR, Kaiser D, Kovács G. **Neural correlates of priming and adaptation in familiar face perception.** *Cortex* 49(7), 1963–1977.
+- Kovács G, Zimmer M, Volberg G, Lavric I, Rossion B. **Electrophysiological correlates of visual adaptation and sensory competition.** *Neuropsychologia* 51(8), 1488–1496.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2012</h2></summary>
+
+- Nagy K, Greenlee MW, Kovács G. **The lateral occipital cortex in the face perception network: an effective connectivity study.** *Frontiers in Psychology* 3, 141.
+- Kovács G, Iffland L, Vidnyánszky Z, Greenlee MW. **Stimulus repetition probability effects on repetition suppression are position invariant for faces.** *NeuroImage* 60(4), 2128–2135.
+- Nagy K, Zimmer M, Greenlee MW, Kovács G. **Neural correlates of after-effects caused by adaptation to multiple face displays.** *Experimental Brain Research* 220(3), 261–275.
+- Antal A, Kovács G, Chaieb L, Cziraki C, Paulus W, Greenlee MW. **Cathodal stimulation of human MT+ leads to elevated fMRI signal: a tDCS-fMRI study.** *Restorative Neurology and Neuroscience* 30(3), 255–263.
+- Vakli P, Németh K, Zimmer M, Schweinberger SR, Kovács G. **Face distortion aftereffects evoked by featureless first-order stimulus configurations.** *Frontiers in Psychology* 3, 566.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2011</h2></summary>
+
+- Bankó ÉM, Gál V, Körtvélyes J, Kovács G, Vidnyánszky Z. **Dissociating the effect of noise on sensory processing and overall decision difficulty.** *Journal of Neuroscience* 31(7), 2663–2674.
+- Theodoni P, Kovács G, Greenlee MW, Deco G. **Neuronal adaptation effects in decision making.** *Journal of Neuroscience* 31(1), 234–246.
+- Ambrus GG, Zimmer M, Kincses ZT, Harza I, Kovács G, Paulus W, Antal A. **The enhancement of cortical excitability over the DLPFC before and during training impairs categorization in the prototype distortion task.** *Neuropsychologia* 49(7), 1974–1980.
+- Nagy K, Greenlee MW, Kovács G. **Sensory competition in the face processing areas of the human brain.** *PLOS ONE* 6(9), e24450.
+- Schweinberger SR, Walther C, Zäske R, Kovács G. **Neural correlates of adaptation to voice identity.** *British Journal of Psychology* 102(4), 748–764.
+- Zimmer M, Kovács G. **Position specificity of adaptation-related face aftereffects.** *Philosophical Transactions of the Royal Society B* 366(1564), 586–595.
+- Zimmer M, Kovács G. **Electrophysiological correlates of face distortion after-effects.** *Quarterly Journal of Experimental Psychology* 64(3), 533–544.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2010</h2></summary>
+
+- Schweinberger SR, Zäske R, Walther C, Golle J, Kovács G, Wiese H. **Young without plastic surgery: perceptual adaptation to the age of female and male faces.** *Vision Research* 50(23), 2570–2576.
+- Kloth N, Schweinberger SR, Kovács G. **Neural correlates of generic versus gender-specific face adaptation.** *Journal of Cognitive Neuroscience* 22(10), 2345–2356.
+- Cziraki C, Greenlee MW, Kovács G. **Neural correlates of high-level adaptation-related aftereffects.** *Journal of Neurophysiology* 103(3), 1410–1417.
+- Kovács G, Cziraki C, Greenlee MW. **Neural correlates of stimulus-invariant decisions about motion in depth.** *NeuroImage* 51(1), 329–335.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2009</h2></summary>
+
+- Chaieb L, Kovács G, Cziraki C, Greenlee MW, Paulus W, Antal A. **Short-duration transcranial random noise stimulation induces blood oxygenation level dependent response attenuation in the human motor cortex.** *Experimental Brain Research* 198(4), 439–444.
+- Nagy K, Zimmer M, Liu W, Kovács G. **The sensitivity of face specific ERP components to the nature of stimulus noise.** *Learning & Perception* 1(2), 183–197.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2008</h2></summary>
+
+- Kovács G, Raabe M, Greenlee MW. **Neural correlates of visually induced self-motion illusion in depth.** *Cerebral Cortex* 18(8), 1779–1787.
+- Kovács G, Cziraki C, Vidnyánszky Z, Schweinberger SR, Greenlee MW. **Position-specific and position-invariant face aftereffects reflect the adaptation of different cortical areas.** *NeuroImage* 43(1), 156–164.
+- Kovács G. **Az arcpercepció és arcadaptáció elektrofiziológiája** [The electrophysiology of face perception and face adaptation]. *Magyar Pszichológiai Szemle* 63(1), 9–17.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2007</h2></summary>
+
+- Carbon CC, Strobach T, Langton SRH, Harsányi G, Leder H, Kovács G. **Adaptation effects of highly familiar faces: immediate and long lasting.** *Memory & Cognition* 35(8), 1966–1976.
+- Kovács G, Zimmer M, Harza I, Vidnyánszky Z. **Adaptation duration affects the spatial selectivity of facial aftereffects.** *Vision Research* 47(25), 3141–3149.
+- Sáry G, Chadaide Z, Tompa T, Köteles K, Kovács G, Benedek G. **Illusory shape representation in the monkey inferior temporal cortex.** *European Journal of Neuroscience* 25(8), 2558–2564.
+- Zsadányi-Nagy Z, Kovács G. **Férfi szex hormonszerű anyag szaglása megváltoztatja az emberi arcok szexuális diszkriminációját** [Smelling male sex hormone-like steroids alters the perceived gender of a face]. *Magyar Pszichológiai Szemle* 62(2), 181–191.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2006</h2></summary>
+
+- Kovács G, Zimmer M, Bankó É, Harza I, Antal A, Vidnyánszky Z. **Electrophysiological correlates of visual adaptation to faces and body parts in humans.** *Cerebral Cortex* 16(5), 742–753.
+- Kóbor I, Füredi L, Kovács G, Spence C, Vidnyánszky Z. **Back-to-front: improved tactile discrimination performance in the space you cannot see.** *Neuroscience Letters* 400(1–2), 163–167.
+- Kovács G. **Adaptáció és utóhatások a látórendszerben** [Adaptation and aftereffects in the visual system]. *Magyar Pszichológiai Szemle* 61(2), 251–264.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2005</h2></summary>
+
+- Kovács G, Zimmer M, Harza I, Antal A, Vidnyánszky Z. **Position-specificity of facial adaptation.** *NeuroReport* 16(17), 1945–1949.
+- Tompa T, Sáry G, Chadaide Z, Köteles K, Kovács G, Benedek G. **Achromatic shape processing in the inferotemporal cortex of the macaque.** *NeuroReport* 16(1), 57–61.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2004</h2></summary>
+
+- Saxe R, Xiao DK, Kovács G, Perrett DI, Kanwisher N. **A region of right posterior superior temporal sulcus responds to observed intentional actions.** *Neuropsychologia* 42(11), 1435–1446.
+- Kovács G, Gulyás B, Savic I, Perrett DI, Cornwell RE, Little AC, Jones BC, et al. **Smelling human sex hormone-like compounds affects face gender judgment of men.** *NeuroReport* 15(8), 1275–1277.
+- Antal A, Varga ET, Nitsche MA, Chadaide Z, Paulus W, Kovács G, et al. **Direct current stimulation over MT+/V5 modulates motion aftereffect in humans.** *NeuroReport* 15(16), 2491–2494.
+- Sáry G, Chadaide Z, Tompa T, Kovács G, Köteles K, Boda K, et al. **Relationship between stimulus complexity and neuronal activity in the inferotemporal cortex of the macaque monkey.** *Cognitive Brain Research* 22(1), 1–12.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2003</h2></summary>
+
+- Kovács G, Sáry G, Köteles K, Chadaide Z, Tompa T, Vogels R, Benedek G. **Effects of surface cues on macaque inferior temporal cortical responses.** *Cerebral Cortex* 13(2), 178–188.
+- Wade NJ, Kovács G, Vidnyánszky Z. **Inverted faces.** *Perception* 32(1), 1–6.
+- Pléh C, Kovács G, Gulyás B (eds). **Kognitív idegtudomány** [Cognitive neuroscience]. Osiris, Budapest.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2001</h2></summary>
+
+- Antal A, Kéri S, Kovács G, Liszli P, Janka Z, Benedek G. **Event-related potentials from a visual categorization task.** *Brain Research Protocols* 7(2), 131–136.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>2000</h2></summary>
+
+- Antal A, Kéri S, Kovács G, Janka Z, Benedek G. **Early and late components of visual categorization: an event-related potential study.** *Cognitive Brain Research* 9(1), 117–119.
+- Benedek G, Sztriha L, Kovács G. **Coding of spatial co-ordinates on neurones of the feline visual association cortex.** *NeuroReport* 11(7), 1381–1384.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>1997</h2></summary>
+
+- Benedek G, Perényi J, Kovács G, Fischer-Szatmári L, Katoh YY. **Visual, somatosensory, auditory and nociceptive modality properties in the feline suprageniculate nucleus.** *Neuroscience* 78(1), 179–189.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>1996</h2></summary>
+
+- Benedek G, Fischer-Szatmári L, Kovács G, Perényi J, Katoh YY. **Visual, somatosensory and auditory modality properties along the feline suprageniculate-anterior ectosylvian sulcus/insular pathway.** *Progress in Brain Research* 112, 325–334.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>1995</h2></summary>
+
+- Kovács G, Vogels R, Orban GA. **Cortical correlate of pattern backward masking.** *Proceedings of the National Academy of Sciences* 92(12), 5587–5591.
+- Kovács G, Vogels R, Orban GA. **Selectivity of macaque inferior temporal neurons for partially occluded shapes.** *Journal of Neuroscience* 15(3), 1984–1997.
+- Sáry G, Vogels R, Kovács G, Orban GA. **Responses of monkey inferior temporal neurons to luminance-, motion-, and texture-defined gratings.** *Journal of Neurophysiology* 73(4), 1341–1354.
+
+</details>
+
+<details class="pub-year" open>
+<summary><h2>1993</h2></summary>
+
+- Kovács G, Fischer-Szatmári L, Benedek G. **Spatial selectivity in the anterior ectosylvian visual area of the cat.** *Neurobiology* 1(1), 33–45.
+
+</details>
+
+---
+
+*To suggest an addition or correction, open a [publication addition request](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose).*

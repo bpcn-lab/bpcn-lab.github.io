@@ -1,0 +1,29 @@
+name: External link check (warning only)
+
+# Runs on a schedule and reports broken EXTERNAL links as a warning.
+# It never gates a deploy: external link failures are
+# usually rate-limits or transient outages outside our control.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  external-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.6.40
+      - run: quarto render
+      - name: Check external links
+        uses: lycheeverse/lychee-action@v2
+        continue-on-error: true   # warning only, never fails the workflow
+        with:
+          args: --no-progress --include-verbatim --scheme https --scheme http _site
+          fail: false
