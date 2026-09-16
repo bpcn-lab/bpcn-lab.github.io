@@ -99,7 +99,7 @@ Ph.D. candidate, {{< var org.short >}}
 
 ::: {.person}
 
-<img class="person-photo" src="/assets/people/yang-shi.png" alt="Portrait of Yang Shi">
+<img class="person-photo" src="/assets/people/yang-shi.jpeg" alt="Portrait of Yang Shi">
 
 ::: {.person-body}
 
