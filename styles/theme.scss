@@ -131,7 +131,13 @@ summary:focus-visible,
 .figure-note { color: $brand-muted; font-size: 0.85rem; margin-top: 0.4rem; }
 
 /* ---- Cards / callouts / empty states: flat, no accent side bar -------- */
-.card-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.card-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; }
+.card-grid > .card { flex: 1 1 240px; }
+@media (min-width: 768px) {
+  /* Cap each card to one third so a lone trailing card centres on its row
+     instead of stretching full width; full rows still fill edge to edge. */
+  .card-grid > .card { max-width: calc((100% - 2rem) / 3); }
+}
 .card, .callout-plain, .empty-state {
   background: $brand-surface;
   border: none;

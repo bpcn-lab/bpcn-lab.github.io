@@ -73,7 +73,7 @@ Contact for all questions about the department and the team of {{< var pi.name >
 
 :::
 
-## Doctoral students
+## Doctoral candidates
 
 ::: {.person}
 
@@ -86,7 +86,7 @@ AS
 ### András Sárközy, MSc {#andras-sarkozy}
 
 ::: {.person-role}
-Doctoral student, {{< var org.short >}}
+Ph.D. candidate, {{< var org.short >}}
 :::
 
 ::: {.person-links}
@@ -108,11 +108,13 @@ YS
 ### Yang Shi, MSc {#yang-shi}
 
 ::: {.person-role}
-Doctoral student, {{< var org.short >}}
+Ph.D. candidate, {{< var org.short >}}
 :::
 
+Research interests focus on the multidimensional factors that shape identity processing and familiarization during social interactions. This research combines EEG and fMRI with machine-learning-based multivariate analysis to investigate the neural representations and dynamics underlying person perception and familiarity.
+
 ::: {.person-links}
-[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de)
+[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de) · [Find more](https://www.researchgate.net/profile/Yang-Shi-51)
 :::
 
 :::
@@ -130,7 +132,7 @@ YD
 ### Yeliz Dinc, MSc {#yeliz-dinc}
 
 ::: {.person-role}
-Doctoral student, {{< var org.short >}}
+Ph.D. candidate, {{< var org.short >}}
 :::
 
 ::: {.person-links}
