@@ -77,9 +77,7 @@ Contact for all questions about the department and the team of {{< var pi.name >
 
 ::: {.person}
 
-::: {.person-photo .placeholder}
-AS
-:::
+<img class="person-photo" src="/assets/people/andras-sarkozy.jpeg" alt="Portrait of András Sárközy">
 
 ::: {.person-body}
 
@@ -88,6 +86,8 @@ AS
 ::: {.person-role}
 Ph.D. candidate, {{< var org.short >}}
 :::
+
+Research focuses on consciousness and conscious access: how and when sensory information becomes available to subjective experience and report, and how prior expectations shape it. This work draws on psychophysics, eye tracking, pupillometry, and fMRI. A second line of research concerns neurodegeneration, first approached through molecular genetics and now studied in older and clinical populations, combining pupillometry with 7T fMRI during attention and cognitive control tasks. Altered states of consciousness, including psychedelic states, are a further interest that grows out of these questions.
 
 ::: {.person-links}
 [andras.zoltan.sarkoezy@uni-jena.de](mailto:andras.zoltan.sarkoezy@uni-jena.de)
