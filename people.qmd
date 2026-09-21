@@ -5,8 +5,13 @@ description: "Members of the BPCN department at Friedrich Schiller University Je
 
 ::: {.person}
 
+::: {.person-photo-col}
 <img class="person-photo" src="/assets/people/gyula-kovacs.avif" alt="Portrait of Prof. Dr. Gyula Kovács">
 
+::: {.person-social}
+<a href="https://scholar.google.com/citations?hl=de&user=xTXqqyIAAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
+:::
+:::
 
 ::: {.person-body}
 
@@ -19,7 +24,7 @@ description: "Members of the BPCN department at Friedrich Schiller University Je
 Leads the department's research on the neural background of perceptual and cognitive functions, including object and person recognition, the interaction between perception and memory, and predictive neural processes. The work combines electrophysiology, functional imaging, and transcranial magnetic stimulation.
 
 ::: {.person-links}
-[Learn more]({{< var contact.department_url >}})
+[Learn more]({{< var contact.department_url >}}){.pl-web}
 :::
 
 :::
@@ -29,8 +34,13 @@ Leads the department's research on the neural background of perceptual and cogni
 
 ::: {.person}
 
+::: {.person-photo-col}
 <img class="person-photo" src="/assets/people/mario-archila.jpeg" alt="Portrait of Dr. Mario Archila">
 
+::: {.person-social}
+<a href="https://scholar.google.com/citations?hl=de&user=qYnQ7z4AAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
+:::
+:::
 
 ::: {.person-body}
 
@@ -43,7 +53,7 @@ Researcher and Lecturer in Neuro-AI and Visual Perception
 Works at the interface of cognitive neuroscience and machine learning, applying computational methods to neural and behavioural data. Leads the Translational Neuro-AI research program within BPCN.
 
 ::: {.person-links}
-[Learn more]({{< var links.archila >}})
+[Learn more]({{< var links.archila >}}){.pl-web}
 :::
 
 :::
@@ -66,7 +76,7 @@ Team Assistant
 Contact for all questions about the department and the team of {{< var pi.name >}}.
 
 ::: {.person-links}
-[{{< var contact.email >}}](mailto:{{< var contact.email >}})
+[{{< var contact.email >}}](mailto:{{< var contact.email >}}){.pl-mail}
 :::
 
 :::
@@ -90,7 +100,7 @@ Ph.D. candidate, {{< var org.short >}}
 Research focuses on consciousness and conscious access: how and when sensory information becomes available to subjective experience and report, and how prior expectations shape it. This work draws on psychophysics, eye tracking, pupillometry, and fMRI. A second line of research concerns neurodegeneration, first approached through molecular genetics and now studied in older and clinical populations, combining pupillometry with 7T fMRI during attention and cognitive control tasks. Altered states of consciousness, including psychedelic states, are a further interest that grows out of these questions.
 
 ::: {.person-links}
-[andras.zoltan.sarkoezy@uni-jena.de](mailto:andras.zoltan.sarkoezy@uni-jena.de)
+[andras.zoltan.sarkoezy@uni-jena.de](mailto:andras.zoltan.sarkoezy@uni-jena.de){.pl-mail}
 :::
 
 :::
@@ -99,7 +109,13 @@ Research focuses on consciousness and conscious access: how and when sensory inf
 
 ::: {.person}
 
+::: {.person-photo-col}
 <img class="person-photo" src="/assets/people/yang-shi.jpeg" alt="Portrait of Yang Shi">
+
+::: {.person-social}
+<a href="https://www.researchgate.net/profile/Yang-Shi-51"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
+:::
+:::
 
 ::: {.person-body}
 
@@ -112,7 +128,7 @@ Ph.D. candidate, {{< var org.short >}}
 Research interests focus on the multidimensional factors that shape identity processing and familiarization during social interactions. This research combines EEG and fMRI with machine-learning-based multivariate analysis to investigate the neural representations and dynamics underlying person perception and familiarity.
 
 ::: {.person-links}
-[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de) · [Find more](https://www.researchgate.net/profile/Yang-Shi-51)
+[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de){.pl-mail}
 :::
 
 :::
@@ -121,8 +137,12 @@ Research interests focus on the multidimensional factors that shape identity pro
 
 ::: {.person}
 
-::: {.person-photo .placeholder}
-YD
+::: {.person-photo-col}
+<img class="person-photo" src="/assets/people/yeliz-dinc.jpeg" alt="Portrait of Yeliz Dinc">
+
+::: {.person-social}
+<a href="https://scholar.google.com/citations?user=Rcr0Dw4AAAAJ&hl=tr"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
+:::
 :::
 
 ::: {.person-body}
@@ -133,8 +153,10 @@ YD
 Ph.D. candidate, {{< var org.short >}}
 :::
 
+Research focuses on face perception and recognition, particularly familiarity, memory, and individual differences in face-recognition ability, and on how semantic information and visual context shape the way identities are processed and recognized. Using EEG and multivariate pattern analysis, this work investigates the neural processes involved in face recognition. Also involved in teaching the EmPra course "Face Recognition in Cognitive Neuroscience." Outside the lab, Yeliz enjoys spending time with her cat, being in nature, good food, and sports.
+
 ::: {.person-links}
-[yeliz.dinc@uni-jena.de](mailto:yeliz.dinc@uni-jena.de)
+[yeliz.dinc@uni-jena.de](mailto:yeliz.dinc@uni-jena.de){.pl-mail}
 :::
 
 :::
@@ -164,7 +186,7 @@ Currently: Researcher, Swiss Center for Design and Health, Switzerland
 :::
 
 ::: {.person-links}
-[Swiss Center for Design and Health](https://www.scdh.ch/en/who-we-are)
+[Swiss Center for Design and Health](https://www.scdh.ch/en/who-we-are){.pl-web}
 :::
 
 :::
@@ -186,7 +208,7 @@ Currently: Assistant Professor, James Madison University, United States
 :::
 
 ::: {.person-links}
-[Profile](https://www.jmu.edu/chbs/csd/people/rogenmoser-lars.shtml)
+[Profile](https://www.jmu.edu/chbs/csd/people/rogenmoser-lars.shtml){.pl-profile}
 :::
 
 :::
@@ -208,7 +230,7 @@ Currently: School of Psychology, Zhejiang Normal University, China
 :::
 
 ::: {.person-links}
-[ResearchGate](https://www.researchgate.net/profile/Chenglin-Li-15)
+<a class="icon-only" href="https://www.researchgate.net/profile/Chenglin-Li-15"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
 :::
 
 :::
@@ -226,7 +248,7 @@ Former doctoral student
 :::
 
 ::: {.person-links}
-[XING](https://www.xing.com/profile/Charlotta_Eick)
+[XING](https://www.xing.com/profile/Charlotta_Eick){.pl-profile}
 :::
 
 :::
@@ -248,7 +270,7 @@ Currently: Professor, Philipps-Universität Marburg, Germany
 :::
 
 ::: {.person-links}
-[Profile](https://www.uni-marburg.de/en/fb04/team-grotheer/team/dr-mareike-grotheer)
+[Profile](https://www.uni-marburg.de/en/fb04/team-grotheer/team/dr-mareike-grotheer){.pl-profile}
 :::
 
 :::
@@ -266,7 +288,7 @@ Former member
 :::
 
 ::: {.person-links}
-[ResearchGate](https://www.researchgate.net/profile/Catarina-Amado-2)
+<a class="icon-only" href="https://www.researchgate.net/profile/Catarina-Amado-2"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
 :::
 
 :::
@@ -288,7 +310,7 @@ Currently: Lecturer in Psychology, Bournemouth University, United Kingdom
 :::
 
 ::: {.person-links}
-[Profile](https://staffprofiles.bournemouth.ac.uk/display/gambrus)
+[Profile](https://staffprofiles.bournemouth.ac.uk/display/gambrus){.pl-profile}
 :::
 
 :::
@@ -320,7 +342,7 @@ Former member
 :::
 
 ::: {.person-links}
-[ResearchGate](https://www.researchgate.net/profile/Sophie-Marie-Rostalski)
+<a class="icon-only" href="https://www.researchgate.net/profile/Sophie-Marie-Rostalski"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
 :::
 
 :::

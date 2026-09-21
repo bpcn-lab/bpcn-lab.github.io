@@ -237,18 +237,84 @@ details.pub-year > summary:hover h2 { color: $brand-link; }
   letter-spacing: 0.02em;
   user-select: none;
 }
+/* Photo plus its row of network-icon links, centred as one column. */
+.person-photo-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 0.65rem;
+}
+
 .person-body { flex: 1 1 auto; min-width: 0; }
 .person-body h3 { margin: 0 0 0.15rem; font-size: 1.2rem; color: $brand-ink; }
 .person-body p { margin: 0.4rem 0; }
 .person-role { color: $brand-muted; font-size: 0.95rem; margin-bottom: 0.5rem; }
-.person-links { font-size: 0.9rem; margin-top: 0.6rem; }
-.person-links a { margin-right: 0.35rem; }
+.person-links { font-size: 0.9rem; margin-top: 0.6rem; display: flex; flex-wrap: wrap; gap: 0.9rem; }
+
+/* Small circular monogram badges for links with no recognised brand mark
+   (email, a department page, a generic institutional profile). Decorative:
+   the link text always states the destination on its own. */
+.person-links a[class^="pl-"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+.person-links a[class^="pl-"]::before {
+  content: "";
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 50%;
+  background: $brand-surface;
+  color: $brand-link;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+.person-links a.pl-mail::before { content: "@"; font-size: 0.8em; }
+.person-links a.pl-profile::before,
+.person-links a.pl-web::before  { content: "↗"; font-size: 0.85em; }
+
+/* Network icons (Google Scholar, ResearchGate, and future additions): the
+   platform's own mark, icon-only, alt text carries the network name. Used
+   centred below a photo (.person-social) or, for alumni with no photo,
+   inline in their one-line link row (.icon-only). To add a network: drop a
+   brand-coloured SVG in assets/icons/ and reuse .social-icon at either site. */
+.person-social {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.person-social p { margin: 0; display: contents; }
+.person-social a,
+.person-links a.icon-only {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: 50%;
+  background: $brand-surface;
+  transition: background-color 0.15s ease;
+}
+.person-social a:hover, .person-social a:focus-visible,
+.person-links a.icon-only:hover, .person-links a.icon-only:focus-visible {
+  background: darken($brand-surface, 7%);
+}
+.social-icon { width: 1.05rem; height: 1.05rem; display: block; }
+
 .person.alum { padding: 0.85rem 0; gap: 0; }
 .person.alum .person-body h3 { font-size: 1.02rem; }
 .person-now { color: $brand-muted; font-size: 0.9rem; }
 
 @media (max-width: 600px) {
   .person { flex-direction: column; gap: 0.9rem; }
+  .person-photo-col { align-self: flex-start; }
   .person-photo { width: 96px; height: 96px; flex-basis: 96px; }
 }
 
