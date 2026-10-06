@@ -4,12 +4,35 @@ pagetitle: "BPCN: Biological Psychology & Cognitive Neuroscience, FSU Jena"
 toc: false
 ---
 
-::: {.hero}
-# Biological Psychology & Cognitive Neuroscience
-
-::: {.lede}
-Investigating the neural background of perceptual and cognitive functions at Friedrich Schiller University Jena.
-:::
+::: {.hero-full .column-screen}
+```{=html}
+<div class="hero-media">
+  <img src="/assets/img/jena-hero.jpg" alt="" width="747" height="470" fetchpriority="high" decoding="async">
+</div>
+<div class="hero-panel">
+  <p class="hero-title" role="heading" aria-level="1">Biological Psychology &amp; Cognitive Neuroscience</p>
+  <p class="hero-lede">Investigating the neural background of perceptual and cognitive functions at Friedrich Schiller University Jena.</p>
+  <a class="hero-cta" href="research.html">Explore our research</a>
+</div>
+<button class="hero-motion" type="button" aria-pressed="false" aria-label="Pause background motion" hidden>
+  <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+  <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>
+</button>
+<script>
+(() => {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const hero = document.currentScript.closest(".hero-full");
+  const btn = hero.querySelector(".hero-motion");
+  hero.classList.add("is-moving");
+  btn.hidden = false;
+  btn.addEventListener("click", () => {
+    const paused = hero.classList.toggle("is-paused");
+    btn.setAttribute("aria-pressed", String(paused));
+    btn.setAttribute("aria-label", paused ? "Play background motion" : "Pause background motion");
+  });
+})();
+</script>
+```
 :::
 
 The **{{< var org.name >}}** ({{< var org.short >}}) is part of the {{< var org.faculty >}} at {{< var org.university >}}, led by {{< var pi.name >}}. We study how the brain supports perception, memory, and cognition, with a focus on object and person recognition, the interaction between perception and memory, and predictive neural processes.

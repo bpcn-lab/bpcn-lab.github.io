@@ -1,25 +1,29 @@
 ---
 title: "People"
-description: "Members of the BPCN department at Friedrich Schiller University Jena."
+description: "Members and alumni of the BPCN department at Friedrich Schiller University Jena."
 ---
 
 ::: {.person}
 
-::: {.person-photo-col}
-<img class="person-photo" src="/assets/people/gyula-kovacs.avif" alt="Portrait of Prof. Dr. Gyula Kovács">
-
-::: {.person-social}
-<a href="https://scholar.google.com/citations?hl=de&user=xTXqqyIAAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
-:::
-:::
-
-::: {.person-body}
+::: {.person-aside}
+<img class="person-photo" src="/assets/people/gyula-kovacs.jpeg" alt="Portrait of Prof. Dr. Gyula Kovács">
 
 ### {{< var pi.name >}} {#gyula-kovacs}
 
 ::: {.person-role}
 {{< var pi.role >}}, {{< var org.short >}}
 :::
+
+::: {.person-social}
+<a href="https://scholar.google.com/citations?hl=de&user=xTXqqyIAAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
+:::
+
+::: {.person-email}
+<a href="mailto:gyula.kovacs@uni-jena.de"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>gyula.kovacs<wbr>@uni-jena.de</span></a>
+:::
+:::
+
+::: {.person-body}
 
 Leads the department's research on the neural background of perceptual and cognitive functions, including object and person recognition, the interaction between perception and memory, and predictive neural processes. The work combines electrophysiology, functional imaging, and transcranial magnetic stimulation.
 
@@ -31,24 +35,27 @@ Leads the department's research on the neural background of perceptual and cogni
 
 :::
 
-
 ::: {.person}
 
-::: {.person-photo-col}
+::: {.person-aside}
 <img class="person-photo" src="/assets/people/mario-archila.jpeg" alt="Portrait of Dr. Mario Archila">
-
-::: {.person-social}
-<a href="https://scholar.google.com/citations?hl=de&user=qYnQ7z4AAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
-:::
-:::
-
-::: {.person-body}
 
 ### Dr. Mario Archila {#mario-archila}
 
 ::: {.person-role}
 Researcher and Lecturer in Neuro-AI and Visual Perception
 :::
+
+::: {.person-social}
+<a href="https://scholar.google.com/citations?hl=de&user=qYnQ7z4AAAAJ&view_op=list_works&sortby=pubdate"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
+:::
+
+::: {.person-email}
+<a href="mailto:mario.archila@uni-jena.de"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>mario.archila<wbr>@uni-jena.de</span></a>
+:::
+:::
+
+::: {.person-body}
 
 Works at the interface of cognitive neuroscience and machine learning, applying computational methods to neural and behavioural data. Leads the Translational Neuro-AI research program within BPCN.
 
@@ -62,10 +69,8 @@ Works at the interface of cognitive neuroscience and machine learning, applying 
 
 ::: {.person}
 
-<img class="person-photo" src="/assets/people/susann-houben.avif" alt="Portrait of Susann Houben">
-
-
-::: {.person-body}
+::: {.person-aside}
+<img class="person-photo" src="/assets/people/susann-houben.jpeg" alt="Portrait of Susann Houben">
 
 ### Susann Houben {#susann-houben}
 
@@ -73,11 +78,14 @@ Works at the interface of cognitive neuroscience and machine learning, applying 
 Team Assistant
 :::
 
-Contact for all questions about the department and the team of {{< var pi.name >}}.
-
-::: {.person-links}
-[{{< var contact.email >}}](mailto:{{< var contact.email >}}){.pl-mail}
+::: {.person-email}
+<a href="mailto:{{< var contact.email >}}"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>{{< var contact.email >}}</span></a>
 :::
+:::
+
+::: {.person-body}
+
+Contact for all questions about the department and the team of {{< var pi.name >}}.
 
 :::
 
@@ -87,9 +95,8 @@ Contact for all questions about the department and the team of {{< var pi.name >
 
 ::: {.person}
 
+::: {.person-aside}
 <img class="person-photo" src="/assets/people/andras-sarkozy.jpeg" alt="Portrait of András Sárközy">
-
-::: {.person-body}
 
 ### András Sárközy, MSc {#andras-sarkozy}
 
@@ -97,11 +104,14 @@ Contact for all questions about the department and the team of {{< var pi.name >
 Ph.D. candidate, {{< var org.short >}}
 :::
 
-Research focuses on consciousness and conscious access: how and when sensory information becomes available to subjective experience and report, and how prior expectations shape it. This work draws on psychophysics, eye tracking, pupillometry, and fMRI. A second line of research concerns neurodegeneration, first approached through molecular genetics and now studied in older and clinical populations, combining pupillometry with 7T fMRI during attention and cognitive control tasks. Altered states of consciousness, including psychedelic states, are a further interest that grows out of these questions.
-
-::: {.person-links}
-[andras.zoltan.sarkoezy@uni-jena.de](mailto:andras.zoltan.sarkoezy@uni-jena.de){.pl-mail}
+::: {.person-email}
+<a href="mailto:andras.zoltan.sarkoezy@uni-jena.de"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>andras.zoltan.sarkoezy<wbr>@uni-jena.de</span></a>
 :::
+:::
+
+::: {.person-body}
+
+Research focuses on consciousness and conscious access: how and when sensory information becomes available to subjective experience and report, and how prior expectations shape it. This work draws on psychophysics, eye tracking, pupillometry, and fMRI. A second line of research concerns neurodegeneration, first approached through molecular genetics and now studied in older and clinical populations, combining pupillometry with 7T fMRI during attention and cognitive control tasks. Altered states of consciousness, including psychedelic states, are a further interest that grows out of these questions.
 
 :::
 
@@ -109,15 +119,8 @@ Research focuses on consciousness and conscious access: how and when sensory inf
 
 ::: {.person}
 
-::: {.person-photo-col}
+::: {.person-aside}
 <img class="person-photo" src="/assets/people/yang-shi.jpeg" alt="Portrait of Yang Shi">
-
-::: {.person-social}
-<a href="https://www.researchgate.net/profile/Yang-Shi-51"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
-:::
-:::
-
-::: {.person-body}
 
 ### Yang Shi, MSc {#yang-shi}
 
@@ -125,11 +128,18 @@ Research focuses on consciousness and conscious access: how and when sensory inf
 Ph.D. candidate, {{< var org.short >}}
 :::
 
-Research interests focus on the multidimensional factors that shape identity processing and familiarization during social interactions. This research combines EEG and fMRI with machine-learning-based multivariate analysis to investigate the neural representations and dynamics underlying person perception and familiarity.
-
-::: {.person-links}
-[yang.shi@uni-jena.de](mailto:yang.shi@uni-jena.de){.pl-mail}
+::: {.person-social}
+<a href="https://www.researchgate.net/profile/Yang-Shi-51"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
 :::
+
+::: {.person-email}
+<a href="mailto:yang.shi@uni-jena.de"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>yang.shi<wbr>@uni-jena.de</span></a>
+:::
+:::
+
+::: {.person-body}
+
+Research interests focus on the multidimensional factors that shape identity processing and familiarization during social interactions. This research combines EEG and fMRI with machine-learning-based multivariate analysis to investigate the neural representations and dynamics underlying person perception and familiarity.
 
 :::
 
@@ -137,15 +147,8 @@ Research interests focus on the multidimensional factors that shape identity pro
 
 ::: {.person}
 
-::: {.person-photo-col}
+::: {.person-aside}
 <img class="person-photo" src="/assets/people/yeliz-dinc.jpeg" alt="Portrait of Yeliz Dinc">
-
-::: {.person-social}
-<a href="https://scholar.google.com/citations?user=Rcr0Dw4AAAAJ&hl=tr"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
-:::
-:::
-
-::: {.person-body}
 
 ### Yeliz Dinc, MSc {#yeliz-dinc}
 
@@ -153,11 +156,18 @@ Research interests focus on the multidimensional factors that shape identity pro
 Ph.D. candidate, {{< var org.short >}}
 :::
 
-Research focuses on face perception and recognition, particularly familiarity, memory, and individual differences in face-recognition ability, and on how semantic information and visual context shape the way identities are processed and recognized. Using EEG and multivariate pattern analysis, this work investigates the neural processes involved in face recognition. Also involved in teaching the EmPra course "Face Recognition in Cognitive Neuroscience." Outside the lab, Yeliz enjoys spending time with her cat, being in nature, good food, and sports.
-
-::: {.person-links}
-[yeliz.dinc@uni-jena.de](mailto:yeliz.dinc@uni-jena.de){.pl-mail}
+::: {.person-social}
+<a href="https://scholar.google.com/citations?user=Rcr0Dw4AAAAJ&hl=tr"><img class="social-icon" src="/assets/icons/google-scholar.svg" alt="Google Scholar"></a>
 :::
+
+::: {.person-email}
+<a href="mailto:yeliz.dinc@uni-jena.de"><img class="social-icon" src="/assets/icons/email.svg" alt="Email"><span>yeliz.dinc<wbr>@uni-jena.de</span></a>
+:::
+:::
+
+::: {.person-body}
+
+Research focuses on face perception and recognition, particularly familiarity, memory, and individual differences in face-recognition ability, and on how semantic information and visual context shape the way identities are processed and recognized. Using EEG and multivariate pattern analysis, this work investigates the neural processes involved in face recognition. Also involved in teaching the EmPra course "Face Recognition in Cognitive Neuroscience." Outside the lab, Yeliz enjoys spending time with her cat, being in nature, good food, and sports.
 
 :::
 
@@ -171,33 +181,15 @@ No public profiles yet.
 
 ## Alumni
 
-::: {.person .alum}
+Former researchers and students supervised by {{< var pi.name >}}, including those supervised before he joined Friedrich Schiller University Jena. A dagger (†) marks co-supervision as second supervisor.
 
-::: {.person-body}
-
-### Dr. Linda Ficco {#linda-ficco}
-
-::: {.person-role}
-Former doctoral student
-:::
-
-::: {.person-now}
-Currently: Researcher, Swiss Center for Design and Health, Switzerland
-:::
-
-::: {.person-links}
-[Swiss Center for Design and Health](https://www.scdh.ch/en/who-we-are){.pl-web}
-:::
-
-:::
-
-:::
+### Former researchers {.alumni-group}
 
 ::: {.person .alum}
 
 ::: {.person-body}
 
-### Dr. Lars Rogenmoser {#lars-rogenmoser}
+#### Dr. Lars Rogenmoser {#lars-rogenmoser}
 
 ::: {.person-role}
 Former habilitation candidate
@@ -207,8 +199,8 @@ Former habilitation candidate
 Currently: Assistant Professor, James Madison University, United States
 :::
 
-::: {.person-links}
-[Profile](https://www.jmu.edu/chbs/csd/people/rogenmoser-lars.shtml){.pl-profile}
+::: {.person-social}
+<a href="https://www.jmu.edu/chbs/csd/people/rogenmoser-lars.shtml"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
 :::
 
 :::
@@ -219,87 +211,7 @@ Currently: Assistant Professor, James Madison University, United States
 
 ::: {.person-body}
 
-### Dr. Chenglin Li {#chenglin-li}
-
-::: {.person-role}
-Former doctoral student
-:::
-
-::: {.person-now}
-Currently: School of Psychology, Zhejiang Normal University, China
-:::
-
-::: {.person-links}
-<a class="icon-only" href="https://www.researchgate.net/profile/Chenglin-Li-15"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
-:::
-
-:::
-
-:::
-
-::: {.person .alum}
-
-::: {.person-body}
-
-### Dr. Charlotta Eick {#charlotta-eick}
-
-::: {.person-role}
-Former doctoral student
-:::
-
-::: {.person-links}
-[XING](https://www.xing.com/profile/Charlotta_Eick){.pl-profile}
-:::
-
-:::
-
-:::
-
-::: {.person .alum}
-
-::: {.person-body}
-
-### Dr. Mareike Grotheer {#mareike-grotheer}
-
-::: {.person-role}
-Former member
-:::
-
-::: {.person-now}
-Currently: Professor, Philipps-Universität Marburg, Germany
-:::
-
-::: {.person-links}
-[Profile](https://www.uni-marburg.de/en/fb04/team-grotheer/team/dr-mareike-grotheer){.pl-profile}
-:::
-
-:::
-
-:::
-
-::: {.person .alum}
-
-::: {.person-body}
-
-### Dr. Catarina Amado {#catarina-amado}
-
-::: {.person-role}
-Former member
-:::
-
-::: {.person-links}
-<a class="icon-only" href="https://www.researchgate.net/profile/Catarina-Amado-2"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
-:::
-
-:::
-
-:::
-
-::: {.person .alum}
-
-::: {.person-body}
-
-### Dr. Géza Gergely Ambrus {#geza-gergely-ambrus}
+#### Dr. Géza Gergely Ambrus {#geza-gergely-ambrus}
 
 ::: {.person-role}
 Former member
@@ -309,8 +221,33 @@ Former member
 Currently: Lecturer in Psychology, Bournemouth University, United Kingdom
 :::
 
-::: {.person-links}
-[Profile](https://staffprofiles.bournemouth.ac.uk/display/gambrus){.pl-profile}
+::: {.person-social}
+<a href="https://staffprofiles.bournemouth.ac.uk/display/gambrus"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
+:::
+
+:::
+
+:::
+
+
+### Doctoral alumni {.alumni-group}
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Linda Ficco {#linda-ficco}
+
+::: {.person-role}
+Ph.D. 2024 †
+:::
+
+::: {.person-now}
+Currently: Researcher, Swiss Center for Design and Health, Switzerland
+:::
+
+::: {.person-social}
+<a href="https://www.scdh.ch/en/who-we-are"><img class="social-icon" src="/assets/icons/website.svg" alt="Swiss Center for Design and Health"></a>
 :::
 
 :::
@@ -321,10 +258,18 @@ Currently: Lecturer in Psychology, Bournemouth University, United Kingdom
 
 ::: {.person-body}
 
-### Christian Walther {#christian-walther}
+#### Dr. Chenglin Li {#chenglin-li}
 
 ::: {.person-role}
-Former member
+Ph.D. 2022
+:::
+
+::: {.person-now}
+Currently: School of Psychology, Zhejiang Normal University, China
+:::
+
+::: {.person-social}
+<a href="https://www.researchgate.net/profile/Chenglin-Li-15"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
 :::
 
 :::
@@ -335,18 +280,390 @@ Former member
 
 ::: {.person-body}
 
-### Dr. Sophie-Marie Rostalski {#sophie-marie-rostalski}
+#### Dr. Charlotta Eick {#charlotta-eick}
 
 ::: {.person-role}
-Former member
+Ph.D. 2021
 :::
 
-::: {.person-links}
-<a class="icon-only" href="https://www.researchgate.net/profile/Sophie-Marie-Rostalski"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
+::: {.person-social}
+<a href="https://www.xing.com/profile/Charlotta_Eick"><img class="social-icon" src="/assets/icons/xing.svg" alt="XING"></a>
 :::
 
 :::
 
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Sophie-Marie Rostalski {#sophie-marie-rostalski}
+
+::: {.person-role}
+Ph.D. 2021
+:::
+
+::: {.person-social}
+<a href="https://www.researchgate.net/profile/Sophie-Marie-Rostalski"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Petra Kovács {#petra-kovacs}
+
+::: {.person-role}
+Ph.D. 2018
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Catarina Amado {#catarina-amado}
+
+::: {.person-role}
+Ph.D. 2017
+:::
+
+::: {.person-social}
+<a href="https://www.researchgate.net/profile/Catarina-Amado-2"><img class="social-icon" src="/assets/icons/researchgate.svg" alt="ResearchGate"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Claudia Menzel {#claudia-menzel}
+
+::: {.person-role}
+Ph.D. 2016 †
+:::
+
+::: {.person-now}
+Currently: Researcher, Environmental Psychology, RPTU Kaiserslautern-Landau, Germany
+:::
+
+::: {.person-social}
+<a href="https://psy.rptu.de/en/wus/social-environmental-and-economic-psychology/environmental-psychology-lab/team/dr-claudia-menzel"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Marlena Itz {#marlena-itz}
+
+::: {.person-role}
+Ph.D. 2016 †
+:::
+
+::: {.person-now}
+Currently: Systems Neuroscience in Psychiatry group, Central Institute of Mental Health, Mannheim, Germany
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Lisa Münke {#lisa-muenke}
+
+::: {.person-role}
+Dr. med. 2016
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Kornél Németh {#kornel-nemeth}
+
+::: {.person-role}
+Ph.D. 2016
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Pál Vakli {#pal-vakli}
+
+::: {.person-role}
+Ph.D. 2016
+:::
+
+::: {.person-now}
+Currently: Research Fellow, Brain Imaging Centre, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Mareike Grotheer {#mareike-grotheer}
+
+::: {.person-role}
+Ph.D. 2015
+:::
+
+::: {.person-now}
+Currently: Professor, Philipps-Universität Marburg, Germany
+:::
+
+::: {.person-social}
+<a href="https://www.uni-marburg.de/en/fb04/team-grotheer/team/dr-mareike-grotheer"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Christian Walther {#christian-walther}
+
+::: {.person-role}
+Ph.D. 2013
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Krisztina Nagy {#krisztina-nagy}
+
+::: {.person-role}
+Ph.D. 2012
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Nicole Wolff {#nicole-wolff}
+
+::: {.person-role}
+Ph.D. 2012 †
+:::
+
+::: {.person-now}
+Currently: Department of Child and Adolescent Psychiatry, University Hospital Carl Gustav Carus Dresden, Germany
+:::
+
+::: {.person-social}
+<a href="https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/kjp/forschung/AG_Roessner/cvs_wma/CV_NWolff"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Márta Zimmer {#marta-zimmer}
+
+::: {.person-role}
+Ph.D. 2010
+:::
+
+::: {.person-now}
+Currently: Associate Professor, Department of Cognitive Science, Budapest University of Technology and Economics, Hungary
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Nadine Kloth {#nadine-kloth}
+
+::: {.person-role}
+Ph.D. 2009 †
+:::
+
+::: {.person-now}
+Currently: Department of Neurology, University Hospital Münster, Germany
+:::
+
+::: {.person-social}
+<a href="https://medizin.uni-muenster.de/klinik-fuer-neurologie/forschung/arbeitsgruppe-landmeyer-1/team.html"><img class="social-icon" src="/assets/icons/website.svg" alt="Institutional profile"></a>
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Zoltán Chadaide {#zoltan-chadaide}
+
+::: {.person-role}
+Ph.D. 2003 †
+:::
+
+:::
+
+:::
+
+::: {.person .alum}
+
+::: {.person-body}
+
+#### Dr. Tamás Tompa {#tamas-tompa}
+
+::: {.person-role}
+Ph.D. 2003 †
+:::
+
+::: {.person-now}
+Currently: Professor, University of Miskolc, Hungary
+:::
+
+:::
+
+:::
+
+
+### Master's, diploma, and medical theses {.alumni-group}
+
+Students who went on to a doctorate in the group are listed under doctoral alumni.
+
+::: {.thesis-list}
+- **Antonia Viel**, MSc Psychology, 2026
+- **Isabell Jakob**, MSc Psychology, 2025
+- **Mayla te Veer** †, MSc Psychology, 2025
+- **Veronique Mann** †, MSc Psychology, 2024
+- **Elena Giuliani**, MSc Psychology, 2022
+- **Katherine Schulte** †, MSc Psychology, 2022
+- **Theresa Epperlein** †, MSc Psychology, 2022
+- **Hanna Klink**, MSc Psychology, 2021
+- **Alexia Dalski** †, MSc Psychology, 2021. Now: [Doctoral researcher, Philipps-Universität Marburg](https://www.uni-marburg.de/en/fb04/team-grotheer/team/alexia-dalski)
+- **Rico Stecher**, MSc Psychology, 2020
+- **Philipp Böhm**, MSc Psychology, 2019
+- **Christian Bloszies** †, MSc Psychology, 2019
+- **Fabian Kattlun** †, MSc Psychology, 2019
+- **Lisa-Celine Sullwold** †, MSc Psychology, 2018
+- **Viola Wagner**, MSc Psychology, 2017
+- **Rebecca Mayer**, MSc Psychology, 2016
+- **Maria Dotzer** †, MSc Psychology, 2016
+- **Nadin Wanke**, MSc Psychology, 2015
+- **Jacob Itzhaki**, MSc Cognitive Neuroscience, 2013
+- **Daniel Kaiser**, Diploma (Psychology), 2012. Now: Professor of Neural Computation, Justus Liebig University Giessen
+- **Iulia Lavric**, Diploma (Psychology), 2012
+- **Lara Iffland**, MSc Cognitive Neuroscience, 2012
+- **Alexander Lüttich**, MSc Cognitive Neuroscience, 2012. Now: [Postdoctoral researcher, Nuffield Department of Clinical Neurosciences, University of Oxford](https://www.ndcn.ox.ac.uk/team/alexander-luettich)
+- **Zsófia Szabó**, MSc Cognitive Neuroscience, 2011
+- **Marcin Posel**, Diploma (Psychology), 2011
+- **Csaba Cziraki**, Diploma (Psychology), 2010
+- **Wenrui Liu**, MSc Cognitive Neuroscience, 2010
+- **Krisztina Kovács**, Diploma (Psychology), 2009
+- **Zsanett Zsadányi**, Diploma (Psychology), 2008
+- **Irén Harza**, Diploma (Biology), 2006
+- **Éva Bankó**, Diploma (Biology), 2005. Now: Senior Research Fellow, HUN-REN Research Centre for Natural Sciences, Budapest
+- **Béla Csákány**, Medical thesis, 2004. Now: Department of Ophthalmology, Semmelweis University, Budapest
+- **Gábor Csifcsák**, Medical thesis, 2004. Now: Professor of Cognitive Neuroscience, UiT The Arctic University of Norway
+:::
+
+### Bachelor's theses {.alumni-group}
+
+::: {.thesis-list .thesis-list-compact}
+- **Marie Stöhr**, 2026
+- **Aaron Jakobi**, 2025
+- **Anna-Lena Wühr**, 2025
+- **Annika Thiel**, 2025
+- **Azlia Istiqomah** †, 2025
+- **Emma Lippold**, 2025
+- **Jakob Menkens**, 2025
+- **Lena Breidt** †, 2025
+- **Lotta Ulrich** †, 2025
+- **Moritz Iffland**, 2025
+- **Sophie Mintert** †, 2025
+- **Anna Seeber**, 2024
+- **Jennifer Kroker** †, 2024 (Biology)
+- **Lara Wöhmann** †, 2024
+- **Lisa Göschel**, 2024
+- **Richard Jahn**, 2024 (Biology)
+- **Robert Mathaus**, 2024
+- **Sophia Pawlik**, 2024
+- **Dominic Kühnlein**, 2023
+- **Dorothea Eichentopf** †, 2022
+- **Janine Sommerfeld** †, 2021
+- **Klemens Buttgereit**, 2021 (Biology)
+- **Laura Friedrich**, 2021
+- **Louisa Fortwengel**, 2021
+- **Pauline Wetzel**, 2021
+- **Anna Erlenbusch** †, 2020
+- **Johannes Lehnen**, 2020
+- **Laura Froese** †, 2020
+- **Lukas Korn**, 2020
+- **Marian Losse** †, 2020
+- **Marie Wachter**, 2020
+- **Paulina Michal** †, 2020
+- **Soyoung Jeong** †, 2020
+- **Lu Steinhauer**, 2019
+- **Moriz Stabe**, 2019
+- **Ricarda Maria Budny**, 2019
+- **Sophia Karzai**, 2019
+- **Bahar Aydin** †, 2018
+- **Dario Urban** †, 2018
+- **Sandrine Hinrichs**, 2018
+- **Antonia Eisele** †, 2017
+- **Anna Trimborn** †, 2017
+- **Fabienne Windel** †, 2017
+- **Laura Krohn** †, 2017
+- **Madita Linke**, 2016
+- **Polina Stoyanova**, 2016
 :::
 
 ---
