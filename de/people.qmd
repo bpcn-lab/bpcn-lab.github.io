@@ -81,7 +81,7 @@ Teamassistenz
 :::
 
 ::: {.person-email}
-<a href="mailto:{{< var contact.email >}}"><img class="social-icon" src="../assets/icons/email.svg" alt="E-Mail"><span>{{< var contact.email >}}</span></a>
+<a href="mailto:sekretariat.bpcn@uni-jena.de"><img class="social-icon" src="../assets/icons/email.svg" alt="E-Mail"><span>sekretariat.bpcn<wbr>@uni-jena.de</span></a>
 :::
 :::
 

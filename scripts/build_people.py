@@ -63,7 +63,7 @@ MEMBERS = [
              "de": "Arbeitet an der Schnittstelle von kognitiven Neurowissenschaften und maschinellem Lernen und wendet computergestützte Methoden auf neuronale und Verhaltensdaten an. Leitet das Forschungsprogramm Translational Neuro-AI am BPCN.",
          }),
     dict(id="susann-houben", name="Susann Houben", alt="Susann Houben",
-         photo="susann-houben.jpeg", email="{{< var contact.email >}}",
+         photo="susann-houben.jpeg", email="sekretariat.bpcn@uni-jena.de",
          role={"en": "Team Assistant", "de": "Teamassistenz"},
          bio={
              "en": "Contact for all questions about the department and the team of {{< var pi.name >}}.",
@@ -274,7 +274,7 @@ def build(lang):
         return icon(url, "website", alt or t["profile"])
 
     def email_line(addr):
-        shown = addr if "{{" in addr else addr.replace("@", "<wbr>@", 1)
+        shown = addr.replace("@", "<wbr>@", 1)
         return (f'\n::: {{.person-email}}\n<a href="mailto:{addr}"><img class="social-icon" '
                 f'src="{A}/icons/email.svg" alt="{t["email"]}"><span>{shown}</span></a>\n:::\n')
 
