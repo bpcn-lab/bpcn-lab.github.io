@@ -1,0 +1,53 @@
+---
+pagetitle: "An Studien teilnehmen | BPCN: Biologische Psychologie und Kognitive Neurowissenschaften"
+description: "Nehmen Sie an Studien der Abteilung BPCN der Friedrich-Schiller-Universität Jena teil: nicht invasive, vergütete Studien zu Wahrnehmung, Gedächtnis und Kognition."
+toc: false
+---
+
+::: {.hero}
+# An unserer Forschung teilnehmen
+
+::: {.lede}
+Freiwillige machen unsere Arbeit möglich. Nehmen Sie an einer Studie darüber teil, wie das Gehirn die Welt wahrnimmt, sich erinnert und erkennt.
+:::
+:::
+
+Die Abteilung sucht regelmäßig Freiwillige für Studien zu Wahrnehmung und Kognition. Vorerfahrung ist nicht nötig. Alles wird Ihnen vorab erklärt, die Teilnahme ist freiwillig, und Sie können jederzeit abbrechen.
+
+## Was die Teilnahme umfasst
+
+Unsere Studien sind nicht invasiv und finden in der Abteilung in Jena statt. Je nach Studie können Sie zum Beispiel:
+
+- Bilder betrachten oder Klängen zuhören und über eine Tastatur antworten (Verhaltens- und Eyetracking-Studien);
+- eine weiche Haube mit Sensoren tragen, die die elektrische Hirnaktivität an der Kopfhaut aufzeichnet (EEG);
+- ruhig in einem Scanner liegen, der Bilder des Gehirns aufnimmt (fMRT, im Bildgebungszentrum Am Steiger);
+- kurze, schmerzfreie Magnetimpulse über der Kopfhaut erhalten, die eine kleine Hirnregion kurzzeitig beeinflussen (TMS).
+
+Jede dieser Methoden ist etabliert und sicher, und die Versuchsleitung ist die ganze Zeit bei Ihnen.
+
+## Wer teilnehmen kann
+
+Die meisten Studien stehen gesunden Erwachsenen mit normalem oder korrigiertem Sehvermögen offen. Einzelne Studien haben zusätzliche Kriterien; manche suchen zum Beispiel rechtshändige Teilnehmende, und für MRT-Studien dürfen Sie keine Metallimplantate haben und nicht schwanger sein. Die genauen Voraussetzungen werden immer vor der Anmeldung genannt.
+
+## Zeitaufwand und Vergütung
+
+Ein Termin dauert meist ein bis drei Stunden. Wir vergüten Ihre Zeit, in der Regel mit einem Stundensatz, und manche Studien bieten zusätzlich ein Andenken an, etwa ein 3D-Modell Ihres eigenen Gesichts oder Gehirns. Studierende können oft statt einer Bezahlung Versuchspersonenstunden erhalten.
+
+## Wo wir sind
+
+- **EEG-, Eyetracking- und Verhaltensstudien:** JenTower, Leutragraben 1, 18. Etage, Jena.
+- **MRT-Studien:** Werner-Kaiser-MRT-Forschungszentrum, Am Steiger, Jena.
+
+## Ihre Daten und Ihre Einwilligung
+
+Die Teilnahme ist freiwillig und beruht auf Ihrer informierten Einwilligung. Die Studien folgen den Ethik- und Datenschutzregeln der Universität; Ihre Daten werden pseudonymisiert gespeichert und ausschließlich für die Forschung verwendet. Einzelheiten finden Sie in unseren [Datenschutzhinweisen](privacy.qmd).
+
+## Anmelden
+
+::: {.callout-cta}
+Möchten Sie teilnehmen oder über kommende Studien informiert werden?
+
+Schreiben Sie uns eine E-Mail mit Ihrem Namen und Ihrer ungefähren Verfügbarkeit, und wir vermitteln Ihnen eine passende Studie. Einzelne Studien nennen auch eigene Ansprechpersonen.
+
+[E-Mail an das Studienteam](mailto:{{< var contact.email >}}){.btn-fsu}
+:::

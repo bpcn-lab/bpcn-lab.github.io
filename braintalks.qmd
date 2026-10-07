@@ -1,0 +1,23 @@
+---
+title: "Braintalks"
+description: "Braintalks, the research colloquium of the BPCN department: guest talks, research reports, and a journal club."
+---
+
+The **Braintalks** are the seminar series of the department. They bring together guest talks, research reports from members of the department, and a journal club.
+
+## When and where
+
+- **Mondays at 14:00**, during the semester.
+- **Hybrid:** in person at the department (JenTower, 18th floor) and on Zoom.
+- **Who:** members of the department, doctoral candidates, and students writing their master's or bachelor's thesis in the department are invited to take part.
+
+The programme for the current semester is listed in [Friedolin](https://friedolin.uni-jena.de) under the colloquium "Kolloquium Biologische Psychologie und Kognitive Neurowissenschaften". For a Zoom invitation, contact {{< var pi.name >}} at [{{< var contact.email >}}](mailto:{{< var contact.email >}}).
+
+## Recent guest talks
+
+- **Attila Keresztes** (Max Planck Institute for Human Development, Berlin): *A critical look at mediotemporal lobe computations supporting memory specificity across the lifespan.* 23 April 2024.
+- **Manuela Nowotny** (Institute of Zoology, Friedrich Schiller University Jena): *Neuronal integration of sound-induced responses in a miniaturized insect ear.* 22 May 2023.
+- **Daniela Sammler** (Frankfurt): *Music production in the broader context of cognition.* 16 January 2023.
+- **Ana Chica** (University of Granada): talks on decoding conscious awareness with EEG, and on TMS, attention, and consciousness.
+
+Programmes from earlier semesters, back to 2017/18, are archived on the [department's Braintalks page](https://www.fsv.uni-jena.de/22868/braintalks).

@@ -34,8 +34,10 @@ jobs:
       - name: Validate metadata (schema, duplicate IDs, drafts)
         run: node scripts/validate.mjs
 
-      - name: Render site
-        run: quarto render
+      - name: Render site (English, then German into _site/de)
+        run: |
+          quarto render
+          quarto render de
 
       - name: Check internal links (gates the build)
         run: node scripts/check-internal-links.mjs _site

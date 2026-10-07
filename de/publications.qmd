@@ -1,0 +1,12 @@
+---
+title: "Publikationen"
+description: "Publikationen und Preprints der Abteilung BPCN, nach Jahren geordnet."
+---
+
+Titel und Zeitschriften sind in der Originalsprache der Veröffentlichung angegeben.
+
+{{< include ../_publications-list.qmd >}}
+
+---
+
+*Um eine Publikation zu ergänzen oder zu korrigieren, eröffnen Sie eine [Anfrage](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose).*

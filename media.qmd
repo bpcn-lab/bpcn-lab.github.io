@@ -1,0 +1,25 @@
+---
+title: "BPCN in the media"
+description: "Media coverage of research from the BPCN department."
+---
+
+## Tell me who you are and I'll recognise your face better (2026)
+
+Our study [It matters who you are: biography modulates the neural dynamics of facial identity representation](https://doi.org/10.1093/cercor/bhag010) (Shi, Gommlich, and Kovács, *Cerebral Cortex*, 2026) showed that knowing something about a person strengthens how their face is represented in the brain.
+
+- [Friedrich Schiller University Jena news](https://www.uni-jena.de/en/398178/tell-me-who-you-are-and-i-ll-recognise-your-face-better), 1 April 2026
+
+## The brain learns faces fastest in person (2021)
+
+Our study [Getting to know you: emerging neural representations during face familiarization](https://doi.org/10.1523/jneurosci.2466-20.2021) (Ambrus, Eick, Kaiser, and Kovács, *Journal of Neuroscience*, 2021) found that the brain signal linked to face familiarity is strongest after getting to know someone in person. The Society for Neuroscience press release was picked up widely:
+
+- [EurekAlert!](https://www.eurekalert.org/pub_releases/2021-05/sfn-tbl051821.php): The brain learns faces fastest in person
+- [Medical Xpress](https://medicalxpress.com/news/2021-05-brain-fastest-person.html): The brain learns faces fastest in person
+- [CNN](https://edition.cnn.com/2021/06/07/health/face-to-face-brain-wellness-scn/index.html)
+- [Nature](https://www.nature.com/articles/d41586-021-01415-y)
+- [The Academic Times](https://academictimes.com/when-it-comes-to-finding-a-face-familiar-visual-cues-are-only-part-of-the-story/)
+- [Inverse](https://www.inverse.com/mind-body/one-tip-to-make-friends)
+- [Cognitive Neuroscience Society](https://www.cogneurosociety.org/getting-to-know-you-new-insights-in-facial-recognition/)
+- [Deutsches Ärzteblatt](https://www.aerzteblatt.de/nachrichten/124548/Das-Gehirn-merkt-sich-Gesichter-nach-persoenlichem-Kontakt-besser) (in German)
+- [Friedrich Schiller University Jena, Lichtgedanken magazine](https://www.lichtgedanken.uni-jena.de/en/1210/face-to-face): Face to face
+- [idw press release](https://idw-online.de/de/news769613) (in German)

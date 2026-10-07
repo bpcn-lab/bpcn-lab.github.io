@@ -1,0 +1,22 @@
+---
+title: "Impressum"
+description: "Impressum der Website der Abteilung BPCN."
+---
+
+## Anbieter
+
+{{< var org.name >}}
+{{< var org.faculty >}}, {{< var org.university >}}
+{{< var contact.address >}}
+
+## Kontakt
+
+[{{< var contact.email >}}](mailto:{{< var contact.email >}}) · {{< var contact.phone >}}
+
+## Verantwortlich für den Inhalt
+
+{{< var pi.name >}}, {{< var org.name >}}.
+
+## Technische Umsetzung
+
+Erstellt mit [Quarto](https://quarto.org). Quellcode: [github.com/bpcn-lab](https://github.com/bpcn-lab).

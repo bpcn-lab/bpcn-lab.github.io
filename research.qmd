@@ -74,3 +74,20 @@ Generative models, including deep neural networks that learn to produce faces, o
 Computational models turn a theory of perception into equations that make testable predictions, from predictive-coding accounts of expectation to models of how identity is encoded over time. Fitting these models to brain and behavioural data shows whether a proposed mechanism can actually produce what we observe. This strand is led within the department by Dr. Mario Archila.
 
 [Learn more]({{< var links.archila >}}/research.html#computational-modeling)
+
+## Collaborations
+
+The department works with colleagues in Germany and abroad, including:
+
+- Prof. Dr. Stefan Schweinberger, Friedrich Schiller University Jena, Germany
+- Prof. Dr. Andrea Antal, University of Göttingen, Germany
+- Dr. Sabrina Trapp, Bielefeld University, Germany
+- Prof. Dr. Daniel Kaiser, Justus Liebig University Giessen, Germany
+- Dr. Rufin Vogels, KU Leuven, Belgium
+- Dr. Zoltán Vidnyánszky, Budapest, Hungary
+- Dr. Mihály Racsmány, Budapest University of Technology and Economics, Hungary
+- Prof. Dezső Németh, Claude Bernard University Lyon 1, France
+- Dr. Viljami Salmela, University of Helsinki, Finland
+- Assoc. Prof. Patrick Johnston, Queensland University of Technology, Brisbane, Australia
+- Dr. Daniel Feuerriegel, University of Melbourne, Australia
+- Prof. Jakob Hohwy and Dr. Jonathan Robinson, Monash University, Melbourne, Australia

@@ -1,0 +1,26 @@
+---
+title: "Über uns"
+description: "Über die Abteilung BPCN der Friedrich-Schiller-Universität Jena: Auftrag und Einbindung."
+---
+
+Die **{{< var org.name >}}** ({{< var org.short >}}) gehört zum [Institut für Psychologie]({{< var contact.institute_url >}}) der [{{< var org.faculty >}}]({{< var contact.faculty_url >}}) an der [{{< var org.university >}}]({{< var contact.university_url >}}).
+
+<div class="brand-banner">
+<img src="../assets/img/jena-towers.jpg" alt="Der JenTower und das historische Stadttor in Jena, in der Nähe der Abteilung.">
+</div>
+
+::: {.figure-note}
+Die Abteilung befindet sich im JenTower, Leutragraben 1, Jena.
+:::
+
+## Auftrag
+
+Wir erforschen die neuronalen Grundlagen von Wahrnehmung und Kognition und verbinden dazu Elektrophysiologie, Bildgebung und Stimulationsverfahren, um Objekt- und Personenerkennung, das Zusammenspiel von Wahrnehmung und Gedächtnis sowie prädiktive Verarbeitung zu verstehen.
+
+## Einbindung
+
+- Offizielle Seite der Abteilung: [{{< var contact.department_url >}}]({{< var contact.department_url >}})
+
+## Mehr
+
+[Barrierefreiheit](accessibility.qmd) · [Datenschutz](privacy.qmd) · [Impressum](legal.qmd) · [Kontakt](contact.qmd)

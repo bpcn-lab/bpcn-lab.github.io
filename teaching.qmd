@@ -1,0 +1,67 @@
+---
+title: "Teaching"
+description: "Courses taught by the BPCN department: Biological Psychology in the BSc and Cognitive Neuroscience in the MSc programme at Friedrich Schiller University Jena."
+---
+
+The department teaches **Biological Psychology** in the BSc programme and **Cognitive Neuroscience** in the MSc programme in psychology. Biological psychology deals with the interaction of mental activity with the brain and the body. Students from other backgrounds, such as medicine and the life sciences, are welcome.
+
+Most courses are taught in German; courses taught in English are marked below. Current dates, rooms, and registration are in [Friedolin](https://friedolin.uni-jena.de), the university's course system. Lecture scripts and exam preparation material are available on the [department's teaching page](https://www.fsv.uni-jena.de/22872/lehre).
+
+## Bachelor (BSc)
+
+### Biological Psychology I (lecture)
+
+The core lecture in biological psychology (course 138986), held in person with recordings available afterwards. Students in the main programme and BSc students also attend the accompanying exercise.
+
+### Biological Psychology (exercise)
+
+The exercise that accompanies the lecture (course 165613), offered every other winter semester.
+
+### Empirical practicum (EmPra)
+
+Small-group research courses in which students design, run, and analyse a study of their own.
+
+- **Face Recognition** (course 179949): the cognitive and neural foundations of face perception and recognition, with student-designed research projects. Taught in English, for up to 10 participants.
+- **Learning and Credit in Brains and Machines** (course 179948): how brains learn to learn, and how modern artificial intelligence is also able to "learn".
+
+### Bachelor propaedeutic in cognitive neuroscience
+
+An introduction to research in the department through a project with one of its researchers. Topics offered in the winter semester 2025/26 included:
+
+- Perceptual learning in motion-induced blindness (András Sárközy)
+- Ageing of identity, studied with multivariate EEG analysis (Prof. Gyula Kovács)
+- Culture-specific person recognition, studied with multivariate EEG analysis (Prof. Gyula Kovács)
+- Effects of the menstrual cycle on music and mood (Prof. Gyula Kovács)
+- Pattern separation for artificial images, studied with fMRI (Prof. Gyula Kovács and Dr. Mario Archila)
+- The neurophysiology of synthetic face perception, with EEG and multivariate analysis (Dr. Mario Archila)
+- Reconstructing stimuli from EEG recordings during face perception with generative adversarial networks (Dr. Mario Archila)
+- Effects of political attitudes on face representation, studied with EEG (Yang Shi)
+- Effects of trustworthiness on the representation of face identity, studied with EEG and fMRI (Yang Shi)
+- Differences in neural face representations between strong and weak face recognisers (Yeliz Dinc)
+- Self-face prioritisation in older adults, studied with EEG (Yeliz Dinc)
+
+## Master (MSc)
+
+### The Neuroscience of Music
+
+Music is present across cultures, throughout life, and throughout human history. This seminar (course 212142) covers its anthropology and its links with language, emotion, and brain plasticity, and its use in therapy and rehabilitation.
+
+### Functional Neuroimaging: a practical introduction
+
+A hands-on introduction to functional neuroimaging (course 179950), offered every other winter semester.
+
+### Project seminar: Higher Sensory Functions
+
+Students design, prepare, run, and analyse a cognitive neuroimaging experiment on the neural processing of language, speech, or music (course 212935). The 9 credit points require taking part in both the summer and the winter semester and attending the Braintalks colloquium.
+
+### Cinema Cognitivo: how popular films depict neuroscientific findings
+
+Is a film's quality its accuracy? In this seminar (course 173143) students watch films about brain function, general psychology, mental disorders, and artificial intelligence, present the science behind them, lead a discussion of what each film gets right and wrong, and rank the films for relevance and accuracy.
+
+### Colloquium: Braintalks
+
+The department's research colloquium (course 146927), with guest talks, research reports, and a journal club. See [Braintalks](braintalks.qmd).
+
+## Questions
+
+For questions about teaching, contact {{< var pi.name >}} or the department at [{{< var contact.email >}}](mailto:{{< var contact.email >}}).

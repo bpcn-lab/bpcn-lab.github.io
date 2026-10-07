@@ -1,0 +1,67 @@
+---
+title: "Lehre"
+description: "Lehrveranstaltungen der Abteilung BPCN: Biologische Psychologie im Bachelor und Kognitive Neurowissenschaften im Master Psychologie an der Friedrich-Schiller-Universität Jena."
+---
+
+Die Abteilung lehrt **Biologische Psychologie** im Bachelorstudiengang und **Kognitive Neurowissenschaften** im Masterstudiengang Psychologie. Die Biologische Psychologie befasst sich mit dem Zusammenspiel psychischer Vorgänge mit Gehirn und Körper. Studierende anderer Fachrichtungen, etwa aus der Medizin und den Lebenswissenschaften, sind willkommen.
+
+Die meisten Veranstaltungen finden auf Deutsch statt; englischsprachige Kurse sind unten gekennzeichnet. Aktuelle Termine, Räume und die Anmeldung finden Sie in [Friedolin](https://friedolin.uni-jena.de), dem Vorlesungsverzeichnis der Universität. Vorlesungsskripte und Materialien zur Prüfungsvorbereitung stehen auf der [Lehrseite der Abteilung](https://www.fsv.uni-jena.de/22872/lehre) bereit.
+
+## Bachelor (B.Sc.)
+
+### Biologische Psychologie I (Vorlesung)
+
+Die zentrale Vorlesung zur Biologischen Psychologie (Veranstaltung 138986), in Präsenz mit anschließend verfügbaren Aufzeichnungen. Studierende im Hauptfach und im Bachelor besuchen zusätzlich die begleitende Übung.
+
+### Biologische Psychologie (Übung)
+
+Die Übung zur Vorlesung (Veranstaltung 165613), angeboten in jedem zweiten Wintersemester.
+
+### Empiriepraktikum (EmPra)
+
+Forschungskurse in kleinen Gruppen, in denen Studierende eine eigene Studie planen, durchführen und auswerten.
+
+- **Face Recognition** (Veranstaltung 179949): kognitive und neuronale Grundlagen der Gesichtswahrnehmung und Gesichtererkennung, mit eigenen Forschungsprojekten der Studierenden. Auf Englisch, für bis zu 10 Teilnehmende.
+- **Learning and Credit in Brains and Machines** (Veranstaltung 179948): wie unser Gehirn lernt zu lernen und wie auch moderne künstliche Intelligenz „lernen“ kann.
+
+### Bachelorpropädeutikum Kognitive Neurowissenschaften
+
+Ein Einstieg in die Forschung der Abteilung über ein Projekt mit einer ihrer Forschenden. Im Wintersemester 2025/26 wurden unter anderem diese Themen angeboten:
+
+- Wahrnehmungslernen bei bewegungsinduzierter Blindheit (András Sárközy)
+- Altern der Identität, untersucht mit multivariater EEG-Analyse (Prof. Gyula Kovács)
+- Kulturspezifische Personenerkennung, untersucht mit multivariater EEG-Analyse (Prof. Gyula Kovács)
+- Einfluss des Menstruationszyklus auf Musik und Stimmung (Prof. Gyula Kovács)
+- Mustertrennung bei künstlichen Bildern, untersucht mit fMRT (Prof. Gyula Kovács und Dr. Mario Archila)
+- Neurophysiologie der Wahrnehmung synthetischer Gesichter, mit EEG und multivariater Analyse (Dr. Mario Archila)
+- Rekonstruktion von Reizen aus EEG-Aufzeichnungen während der Gesichtswahrnehmung mit Generative Adversarial Networks (Dr. Mario Archila)
+- Einfluss politischer Einstellungen auf die Repräsentation von Gesichtern, untersucht mit EEG (Yang Shi)
+- Einfluss von Vertrauenswürdigkeit auf die Repräsentation der Gesichtsidentität, untersucht mit EEG und fMRT (Yang Shi)
+- Unterschiede in der neuronalen Gesichtsrepräsentation zwischen guten und schwachen Gesichtserkennern (Yeliz Dinc)
+- Bevorzugte Verarbeitung des eigenen Gesichts bei älteren Menschen, untersucht mit EEG (Yeliz Dinc)
+
+## Master (M.Sc.)
+
+### The Neuroscience of Music
+
+Musik ist über Kulturen, über die Lebensspanne und über die Menschheitsgeschichte hinweg allgegenwärtig. Das Seminar (Veranstaltung 212142) behandelt ihre Anthropologie, ihre Verbindungen zu Sprache, Emotion und Hirnplastizität sowie ihren Einsatz in Therapie und Rehabilitation.
+
+### Funktionelle Bildgebung: eine praktische Einführung
+
+Eine praxisnahe Einführung in die funktionelle Bildgebung (Veranstaltung 179950), angeboten in jedem zweiten Wintersemester.
+
+### Projektseminar: Höhere sensorische Funktionen
+
+Studierende planen, bereiten vor, führen durch und analysieren ein kognitives Neuroimaging-Experiment zur neuronalen Verarbeitung von Sprache, Sprechen oder Musik (Veranstaltung 212935). Für die 9 Leistungspunkte ist die Teilnahme im Sommer- und im Wintersemester sowie der Besuch des Kolloquiums Braintalks erforderlich.
+
+### Cinema Cognitivo: wie Spielfilme neurowissenschaftliche Erkenntnisse darstellen
+
+Ist die Qualität eines Films seine Genauigkeit? In diesem Seminar (Veranstaltung 173143) sehen Studierende Filme über Hirnfunktionen, Allgemeine Psychologie, psychische Störungen und künstliche Intelligenz, stellen die Wissenschaft dahinter vor, leiten eine Diskussion darüber, was der Film richtig und was er falsch darstellt, und bewerten die Filme nach Relevanz und Genauigkeit.
+
+### Kolloquium: Braintalks
+
+Das Forschungskolloquium der Abteilung (Veranstaltung 146927) mit Gastvorträgen, Forschungsberichten und einem Journal Club. Siehe [Braintalks](braintalks.qmd).
+
+## Fragen
+
+Bei Fragen zur Lehre wenden Sie sich an {{< var pi.name >}} oder an die Abteilung unter [{{< var contact.email >}}](mailto:{{< var contact.email >}}).

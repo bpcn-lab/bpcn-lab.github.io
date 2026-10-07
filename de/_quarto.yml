@@ -1,0 +1,80 @@
+lang: de
+
+# German edition of the site. It is a separate Quarto project so it can have
+# its own navigation; it renders into ../_site/de and shares the theme and
+# assets with the English site. Build both with `npm run build`.
+
+project:
+  type: website
+  output-dir: ../_site/de
+  render:
+    - "*.qmd"
+
+website:
+  title: "BPCN: Biologische Psychologie und Kognitive Neurowissenschaften"
+  description: "Abteilung Biologische Psychologie und Kognitive Neurowissenschaften, Friedrich-Schiller-Universität Jena."
+  site-url: "https://bpcn-lab.github.io/de"
+  favicon: ../assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  navbar:
+    logo: ../assets/logo.svg
+    title: "BPCN Jena"
+    collapse-below: lg
+    left:
+      - text: "Forschung"
+        href: research.qmd
+      - text: "Team"
+        href: people.qmd
+      - text: "Publikationen"
+        href: publications.qmd
+      - text: "Lehre"
+        href: teaching.qmd
+      - text: "Studien"
+        href: participants.qmd
+      - text: "Mitmachen"
+        href: join.qmd
+      - text: "Über uns"
+        menu:
+          - text: "Über das BPCN"
+            href: about.qmd
+          - text: "Braintalks"
+            href: braintalks.qmd
+          - text: "BPCN in den Medien"
+            href: media.qmd
+          - text: "Kontakt"
+            href: contact.qmd
+    right:
+      - text: "English"
+        href: /
+        aria-label: "English version"
+  page-footer:
+    border: true
+    left: |
+      **Abteilung Biologische Psychologie und Kognitive Neurowissenschaften (BPCN)**
+      [Institut für Psychologie](https://www.fsv.uni-jena.de/22594/institut-fuer-psychologie) ·
+      [Fakultät für Sozial- und Verhaltenswissenschaften](https://www.fsv.uni-jena.de) ·
+      [Friedrich-Schiller-Universität Jena](https://www.uni-jena.de)
+    center:
+      - text: "Barrierefreiheit"
+        href: accessibility.qmd
+      - text: "Datenschutz"
+        href: privacy.qmd
+      - text: "Impressum"
+        href: legal.qmd
+    right: |
+      [Website der Abteilung](https://www.fsv.uni-jena.de/22850/biological-psychology-and-cognitive-neuroscience) ·
+      [GitHub](https://github.com/bpcn-lab)
+
+format:
+  html:
+    theme:
+      - cosmo
+      - ../styles/theme.scss
+    toc: false
+    grid:
+      body-width: 900px
+    link-external-newwindow: true
+    link-external-icon: true
+    smooth-scroll: true
+    include-after-body: ../includes/lang-switch.html

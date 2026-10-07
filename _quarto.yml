@@ -7,6 +7,7 @@ project:
     - assets/
   render:
     - "*.qmd"
+    - "!de/"
 
 # Site metadata (names, contacts, links) lives in _variables.yml.
 # Use {{< var key >}} in pages instead of hardcoding values.
@@ -29,19 +30,33 @@ website:
         href: people.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Join"
-        href: join.qmd
+      - text: "Teaching"
+        href: teaching.qmd
       - text: "Participants"
         href: participants.qmd
+      - text: "Join"
+        href: join.qmd
       - text: "About"
-        href: about.qmd
-      - text: "Contact"
-        href: contact.qmd
+        menu:
+          - text: "About BPCN"
+            href: about.qmd
+          - text: "Braintalks"
+            href: braintalks.qmd
+          - text: "BPCN in the media"
+            href: media.qmd
+          - text: "Contact"
+            href: contact.qmd
+    right:
+      - text: "Deutsch"
+        href: /de/
+        aria-label: "Deutsche Version"
   page-footer:
     border: true
     left: |
       **Department of Biological Psychology and Cognitive Neuroscience (BPCN)**
-      Faculty of Social and Behavioural Sciences · Friedrich Schiller University Jena
+      [Institute of Psychology](https://www.fsv.uni-jena.de/en/22594/institute-of-psychology) ·
+      [Faculty of Social and Behavioural Sciences](https://www.fsv.uni-jena.de/en) ·
+      [Friedrich Schiller University Jena](https://www.uni-jena.de/en)
     center:
       - text: "Accessibility"
         href: accessibility.qmd
@@ -64,3 +79,4 @@ format:
     link-external-newwindow: true
     link-external-icon: true
     smooth-scroll: true
+    include-after-body: includes/lang-switch.html

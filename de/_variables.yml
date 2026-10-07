@@ -1,0 +1,27 @@
+# German site settings. Keep in step with ../_variables.yml.
+
+org:
+  name: "Abteilung Biologische Psychologie und Kognitive Neurowissenschaften"
+  short: "BPCN"
+  faculty: "Fakultät für Sozial- und Verhaltenswissenschaften"
+  university: "Friedrich-Schiller-Universität Jena"
+
+pi:
+  name: "Prof. Dr. Gyula Kovács"
+  role: "Abteilungsleiter"
+
+contact:
+  email: "sekretariat.bpcn@uni-jena.de"
+  phone: "+49 3641 9-45936"
+  address: "JenTower, Leutragraben 1, 07743 Jena"
+  department_url: "https://www.fsv.uni-jena.de/22850/biological-psychology-and-cognitive-neuroscience"
+  institute_url: "https://www.fsv.uni-jena.de/22594/institut-fuer-psychologie"
+  faculty_url: "https://www.fsv.uni-jena.de"
+  university_url: "https://www.uni-jena.de"
+  twitter: "@BPCNFSUJENA"
+
+links:
+  archila: "https://archilaresearch.github.io"
+
+paths:
+  assets: "../assets"

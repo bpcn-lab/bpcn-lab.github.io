@@ -1,0 +1,14 @@
+---
+title: "Kontakt"
+description: "Kontakt zur Abteilung BPCN der Friedrich-Schiller-Universität Jena."
+---
+
+## {{< var org.name >}}
+
+- **E-Mail:** [{{< var contact.email >}}](mailto:{{< var contact.email >}})
+- **Telefon:** {{< var contact.phone >}}
+- **Adresse:** {{< var contact.address >}}
+- **Seite der Abteilung:** [{{< var contact.department_url >}}]({{< var contact.department_url >}})
+- **GitHub:** [github.com/bpcn-lab](https://github.com/bpcn-lab)
+
+Für Korrekturen von Inhalten oder Profilen eröffnen Sie bitte eine [Anfrage](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose).

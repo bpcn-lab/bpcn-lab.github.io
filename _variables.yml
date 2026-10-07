@@ -26,3 +26,6 @@ contact:
 
 links:
   archila: "https://archilaresearch.github.io"
+
+paths:
+  assets: "assets"

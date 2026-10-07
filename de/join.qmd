@@ -1,0 +1,30 @@
+---
+title: "Mitmachen"
+description: "Möglichkeiten in der Abteilung BPCN: Abschlussarbeiten, Praktika und Stellen."
+---
+
+Wir freuen uns über Studierende und Kooperationspartner. Finanzierte und nicht finanzierte Möglichkeiten werden klar unterschieden; wo keine Finanzierung besteht, wird keine in Aussicht gestellt.
+
+## Offene Stellen
+
+::: {.empty-state}
+Derzeit sind keine finanzierten Stellen ausgeschrieben.
+:::
+
+Stellen der gesamten Universität finden Sie im [Stellenportal der Friedrich-Schiller-Universität Jena](https://www.uni-jena.de/122166/stellenangebote).
+
+## Studentische Projekte und Abschlussarbeiten
+
+Wir betreuen regelmäßig Bachelor- und Masterarbeiten in den kognitiven Neurowissenschaften. Psychologiestudierende sind ebenso willkommen wie Studierende der Medizin und der Lebenswissenschaften.
+
+::: {.empty-state}
+Konkrete Themen für Abschlussarbeiten werden hier veröffentlicht. Bis dahin können Sie Ihr Interesse über den Kontakt unten bekunden.
+:::
+
+## Weitere Möglichkeiten
+
+Betreute studentische Projekte und Abschlussarbeiten bietet auch [Dr. Mario Archila]({{< var links.archila >}}/join.html) an (auf Englisch).
+
+## Interesse bekunden
+
+Schreiben Sie an [{{< var contact.email >}}](mailto:{{< var contact.email >}}) und beschreiben Sie kurz Ihren Hintergrund und Ihre Interessen.

@@ -1,0 +1,96 @@
+---
+description: "Die Abteilung BPCN der Friedrich-Schiller-Universität Jena erforscht die neuronalen Grundlagen von Wahrnehmung, Gedächtnis und Kognition."
+pagetitle: "BPCN: Biologische Psychologie und Kognitive Neurowissenschaften, FSU Jena"
+toc: false
+---
+
+::: {.hero-full .column-screen}
+```{=html}
+<div class="hero-media">
+  <img src="../assets/img/jena-hero.jpg" alt="" width="747" height="470" fetchpriority="high" decoding="async">
+</div>
+<div class="hero-panel">
+  <p class="hero-title" role="heading" aria-level="1">Biologische Psychologie und Kognitive Neurowissenschaften</p>
+  <p class="hero-lede">Wir erforschen die neuronalen Grundlagen von Wahrnehmung und Kognition an der Friedrich-Schiller-Universität Jena.</p>
+  <a class="hero-cta" href="research.html">Zu unserer Forschung</a>
+</div>
+<button class="hero-motion" type="button" aria-pressed="false" aria-label="Hintergrundbewegung anhalten" hidden>
+  <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+  <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>
+</button>
+<script>
+(() => {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const hero = document.currentScript.closest(".hero-full");
+  const btn = hero.querySelector(".hero-motion");
+  hero.classList.add("is-moving");
+  btn.hidden = false;
+  btn.addEventListener("click", () => {
+    const paused = hero.classList.toggle("is-paused");
+    btn.setAttribute("aria-pressed", String(paused));
+    btn.setAttribute("aria-label", paused ? "Hintergrundbewegung abspielen" : "Hintergrundbewegung anhalten");
+  });
+})();
+</script>
+```
+:::
+
+Die **{{< var org.name >}}** ({{< var org.short >}}) gehört zum [Institut für Psychologie]({{< var contact.institute_url >}}) der [{{< var org.faculty >}}]({{< var contact.faculty_url >}}) an der [{{< var org.university >}}]({{< var contact.university_url >}}). Wir untersuchen, wie das Gehirn Wahrnehmung, Gedächtnis und Kognition ermöglicht, mit Schwerpunkten auf Objekt- und Personenerkennung, dem Zusammenspiel von Wahrnehmung und Gedächtnis sowie prädiktiven neuronalen Prozessen.
+
+## Forschungsthemen
+
+::: {.card-grid}
+::: {.card}
+### Vertraute Gesichter und Personen erkennen
+Wie ein Gesicht vertraut wird und wie das Gehirn eine bekannte Identität anders repräsentiert als eine fremde.
+:::
+::: {.card}
+### Vorhersagen, was wir sehen
+Wie Erwartungen die Wahrnehmung prägen und ob Repetition Suppression echte Vorhersage widerspiegelt.
+:::
+::: {.card}
+### Objekte, Szenen und geschriebene Wörter erkennen
+Dieselben Fragen nach Vertrautheit und Vorhersage, übertragen auf Objekte, reale Szenen und das Lesen.
+:::
+::: {.card}
+### Bewusstsein und visuelle Wahrnehmung
+Warum manche visuelle Information ins Bewusstsein gelangt, untersucht mit Bewusstseinstheorien und Täuschungen wie der bewegungsinduzierten Blindheit.
+:::
+:::
+
+[Zu unserer Forschung →](research.qmd)
+
+## Neueste Publikationen
+
+- Dinç Y, Shi Y, Kovács G. **The neural dynamics of familiarity representation during cued recall.** *bioRxiv*-Preprint, 2026. [DOI](https://doi.org/10.64898/2026.09.21.753245) · [Video]({{< var paths.assets >}}/media/preprint-dinc-2026.mp4)
+- Menkens J, Bräuer J, Kovács G. **Of dogs and men: recognising one's own dog engages the same neural processes as recognising personally familiar faces.** *Biological Psychology*, 2026. [DOI](https://doi.org/10.1016/j.biopsycho.2026.109359)
+- Shi Y, Gommlich S, Kovács G. **It matters who you are: biography modulates the neural dynamics of facial identity representation.** *Cerebral Cortex*, 2026. [DOI](https://doi.org/10.1093/cercor/bhag010)
+
+[Alle Publikationen →](publications.qmd)
+
+## Methoden und Labore
+
+Wir kombinieren Elektroenzephalografie (EEG), funktionelle Bildgebung (fMRT), transkranielle Magnetstimulation (TMS) und Eyetracking. Die Abteilung betreibt eigene Labore für **TMS**, **Eyetracking** und **Hörforschung**.
+
+## An unserer Forschung teilnehmen
+
+::: {.callout-cta}
+Ein großer Teil unserer Forschung ist auf Freiwillige aus Jena und Umgebung angewiesen. Die Teilnahme ist sicher, nicht invasiv und wird vergütet, und sie trägt direkt dazu bei, besser zu verstehen, wie das Gehirn wahrnimmt und sich erinnert.
+
+[Jetzt teilnehmen](participants.qmd){.btn-fsu}
+:::
+
+## Kontakt
+
+{{< var contact.address >}} · [{{< var contact.email >}}](mailto:{{< var contact.email >}})
+
+[Mitmachen](join.qmd) · [Team](people.qmd) · [Publikationen](publications.qmd)
+
+## Förderung
+
+Unsere Forschung wird gefördert von:
+
+::: {.funding-grid}
+[![Deutsche Forschungsgemeinschaft (DFG)](../assets/funding/dfg.jpeg){.funding-logo}](https://www.dfg.de)
+[![Alexander von Humboldt-Stiftung](../assets/funding/humboldt.svg){.funding-logo}](https://www.humboldt-foundation.de)
+:::

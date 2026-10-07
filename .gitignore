@@ -1,8 +1,10 @@
 # Quarto build output (never commit)
 /_site/
 /.quarto/
+/de/.quarto/
 *.html
 !.github/**/*.html
+!includes/*.html
 
 # Node
 /node_modules/

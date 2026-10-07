@@ -1,0 +1,16 @@
+---
+title: "Barrierefreiheit"
+description: "Erklärung zur Barrierefreiheit der Website der Abteilung BPCN."
+---
+
+Wir streben die Konformität mit **WCAG 2.2 AA** an. Die Website verwendet semantische Überschriften, per Tastatur bedienbare Elemente, sichtbare Fokuszustände, ausreichende Farbkontraste, aussagekräftige Links, Alternativtexte für Bilder, ein responsives Layout und berücksichtigt die Einstellung für reduzierte Bewegung. Die Kerninhalte funktionieren ohne JavaScript.
+
+## Bekannte Einschränkungen
+
+Dies ist eine frühe Version; einige Sammlungsseiten sind noch Platzhalter. Wenn Sie auf eine Barriere stoßen, teilen Sie uns dies bitte mit.
+
+## Rückmeldung
+
+Melden Sie ein Problem mit der Barrierefreiheit per E-Mail ([{{< var contact.email >}}](mailto:{{< var contact.email >}})) oder über eine [Anfrage zur Barrierefreiheit](https://github.com/bpcn-lab/bpcn-lab.github.io/issues/new/choose). Wir antworten in angemessener Zeit und beheben Probleme zügig.
+
+*Zuletzt geprüft: 16.07.2026.*

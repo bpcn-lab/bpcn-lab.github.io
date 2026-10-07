@@ -1,0 +1,16 @@
+<script>
+// Point the navbar language link at this page's counterpart (/x.html <-> /de/x.html).
+(() => {
+  const path = location.pathname;
+  const inDe = /^\/de(\/|$)/.test(path);
+  const page = inDe ? path.replace(/^\/de/, "") || "/" : path;
+  const target = inDe ? page : "/de" + page;
+  const label = inDe ? "English" : "Deutsch";
+  for (const a of document.querySelectorAll(".navbar a.nav-link")) {
+    if (a.textContent.trim() !== label) continue;
+    a.href = target;
+    a.hreflang = inDe ? "en" : "de";
+    a.lang = inDe ? "en" : "de";
+  }
+})();
+</script>

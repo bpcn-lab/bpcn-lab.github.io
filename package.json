@@ -8,7 +8,8 @@
     "validate": "node scripts/validate.mjs",
     "check-links": "node scripts/check-internal-links.mjs _site",
     "check": "npm run validate && npm run check-links",
-    "build": "quarto render",
-    "preview": "quarto preview"
+    "build": "quarto render && quarto render de",
+    "preview": "quarto preview",
+    "people": "python3 scripts/build_people.py"
   }
 }

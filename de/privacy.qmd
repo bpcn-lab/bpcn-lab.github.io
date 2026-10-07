@@ -1,0 +1,24 @@
+---
+title: "Datenschutzhinweise"
+description: "Datenschutzhinweise für die Website der Abteilung BPCN."
+---
+
+## Was wir erheben
+
+Diese Website ist eine statische Website. Sie verwendet **keine Analysewerkzeuge, keine Werbe-Tracker und keine Profilbildung**. Über die Website werden keine Daten von Studienteilnehmenden, keine Gesundheitsdaten und keine personenbezogenen Daten erhoben.
+
+## Hosting
+
+Die Seiten werden als statische Dateien über GitHub Pages ausgeliefert. Der Hosting-Anbieter kann technische Zugriffsdaten (etwa IP-Adressen) zur Auslieferung und für die Sicherheit verarbeiten; dies liegt außerhalb des Einflussbereichs der Website und unterliegt den Datenschutzbestimmungen des Anbieters.
+
+## Personenbezogene Daten auf Profilseiten
+
+Einzelne Profile werden nur mit dokumentierter Einwilligung der betreffenden Person veröffentlicht. Alle aufgeführten Personen können eine Korrektur oder Entfernung verlangen.
+
+## Ihre Rechte und Kontakt
+
+Um die Korrektur oder Entfernung von Angaben über Sie zu verlangen, wenden Sie sich an die verantwortliche Stelle:
+
+{{< var org.name >}}: [{{< var contact.email >}}](mailto:{{< var contact.email >}}), {{< var contact.address >}}.
+
+*Zuletzt geprüft: 16.07.2026.*
